@@ -1,0 +1,7 @@
+opencv-python
+tzlocal
+pandas
+plotly
+pytz
+bubbly
+plotly-orca

@@ -1,0 +1,1728 @@
+INFO:root: Fri May 15 14:45:33 2020 : Starting Server Thread
+INFO:root: Fri May 15 14:45:33 2020 : Updating Summary
+INFO:root: Fri May 15 14:48:13 2020 : Database Update Started
+INFO:root: Fri May 15 14:48:13 2020 : Downloading Data
+INFO:root: Fri May 15 14:48:18 2020 : Parsing Data
+INFO:root: Fri May 15 14:48:19 2020 : Updating Summary
+INFO:root: Fri May 15 14:48:39 2020 : Getting Data
+INFO:root: Fri May 15 14:48:39 2020 : Generating Times
+INFO:root: Fri May 15 14:48:39 2020 : Generating Timeline
+INFO:root: Fri May 15 14:48:40 2020 : Generating Map
+INFO:root: Fri May 15 14:48:43 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 14:48:47 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 14:52:24 2020 : Starting Server Thread
+INFO:root: Fri May 15 14:52:24 2020 : Updating Summary
+INFO:root: Fri May 15 14:52:30 2020 : Database Update Started
+INFO:root: Fri May 15 14:52:30 2020 : Downloading Data
+INFO:root: Fri May 15 14:52:36 2020 : Parsing Data
+INFO:root: Fri May 15 14:52:37 2020 : Updating Summary
+INFO:root: Fri May 15 14:52:37 2020 : Getting Data
+INFO:root: Fri May 15 14:52:37 2020 : Generating Times
+INFO:root: Fri May 15 14:52:37 2020 : Generating Timeline
+INFO:root: Fri May 15 14:52:38 2020 : Generating Map
+INFO:root: Fri May 15 14:52:41 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 14:52:46 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 14:53:15 2020 : Starting Server Thread
+INFO:root: Fri May 15 14:53:15 2020 : Updating Summary
+INFO:root: Fri May 15 14:53:19 2020 : Database Update Started
+INFO:root: Fri May 15 14:53:19 2020 : Downloading Data
+INFO:root: Fri May 15 14:53:27 2020 : Parsing Data
+INFO:root: Fri May 15 14:53:28 2020 : Updating Summary
+INFO:root: Fri May 15 14:53:29 2020 : Getting Data
+INFO:root: Fri May 15 14:53:29 2020 : Generating Times
+INFO:root: Fri May 15 14:53:29 2020 : Generating Timeline
+INFO:root: Fri May 15 14:53:29 2020 : Generating Map
+INFO:root: Fri May 15 14:53:33 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 14:53:40 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 14:56:23 2020 : Starting Server Thread
+INFO:root: Fri May 15 14:56:23 2020 : Updating Summary
+INFO:root: Fri May 15 14:57:22 2020 : Starting Server Thread
+INFO:root: Fri May 15 14:57:22 2020 : Updating Summary
+INFO:root: Fri May 15 14:57:33 2020 : Database Update Started
+INFO:root: Fri May 15 14:57:33 2020 : Downloading Data
+INFO:root: Fri May 15 14:57:38 2020 : Parsing Data
+INFO:root: Fri May 15 14:57:39 2020 : Updating Summary
+INFO:root: Fri May 15 14:57:39 2020 : Getting Data
+INFO:root: Fri May 15 14:57:39 2020 : Generating Times
+INFO:root: Fri May 15 14:57:40 2020 : Generating Timeline
+INFO:root: Fri May 15 14:57:40 2020 : Generating Map
+INFO:root: Fri May 15 14:57:42 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 14:57:47 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 14:57:49 2020 : Generating Deaths Bar Chart
+INFO:root: Fri May 15 14:57:50 2020 : Update Completed Successfully
+INFO:root: Fri May 15 15:38:34 2020 : Starting Server Thread
+INFO:root: Fri May 15 15:38:34 2020 : Updating Summary
+INFO:root: Fri May 15 15:38:40 2020 : Database Update Started
+INFO:root: Fri May 15 15:38:40 2020 : Downloading Data
+INFO:root: Fri May 15 15:39:56 2020 : Starting Server Thread
+INFO:root: Fri May 15 15:39:56 2020 : Updating Summary
+INFO:root: Fri May 15 15:40:04 2020 : Database Update Started
+INFO:root: Fri May 15 15:40:04 2020 : Downloading Data
+INFO:root: Fri May 15 15:40:11 2020 : Parsing Data
+INFO:root: Fri May 15 15:40:12 2020 : Updating Summary
+INFO:root: Fri May 15 15:40:12 2020 : Getting Data
+INFO:root: Fri May 15 15:40:12 2020 : Generating Times
+INFO:root: Fri May 15 15:40:13 2020 : Generating Timeline
+INFO:root: Fri May 15 15:40:13 2020 : Generating Map
+INFO:root: Fri May 15 15:40:18 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 15:40:23 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 15:40:25 2020 : Generating Deaths Bar Chart
+INFO:root: Fri May 15 15:40:26 2020 : Update Completed Successfully
+INFO:root: Fri May 15 15:49:13 2020 : Starting Server Thread
+INFO:root: Fri May 15 15:49:13 2020 : Updating Summary
+INFO:root: Fri May 15 15:51:13 2020 : Starting Server Thread
+INFO:root: Fri May 15 15:51:13 2020 : Updating Summary
+INFO:root: Fri May 15 15:55:16 2020 : Starting Server Thread
+INFO:root: Fri May 15 15:55:16 2020 : Updating Summary
+INFO:root: Fri May 15 16:00:36 2020 : Starting Server Thread
+INFO:root: Fri May 15 16:00:36 2020 : Updating Summary
+INFO:root: Fri May 15 16:01:13 2020 : Database Update Started
+INFO:root: Fri May 15 16:01:13 2020 : Downloading Data
+INFO:root: Fri May 15 16:01:23 2020 : Parsing Data
+INFO:root: Fri May 15 16:01:24 2020 : Updating Summary
+INFO:root: Fri May 15 16:01:24 2020 : Getting Data
+INFO:root: Fri May 15 16:01:24 2020 : Generating Times
+INFO:root: Fri May 15 16:01:25 2020 : Generating Timeline
+INFO:root: Fri May 15 16:01:25 2020 : Generating Map
+INFO:root: Fri May 15 16:01:29 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 16:01:36 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 16:01:37 2020 : Generating Deaths Bar Chart
+INFO:root: Fri May 15 16:01:38 2020 : Update Completed Successfully
+INFO:root: Fri May 15 16:04:45 2020 : Starting Server Thread
+INFO:root: Fri May 15 16:04:45 2020 : Updating Summary
+INFO:root: Fri May 15 16:04:54 2020 : Database Update Started
+INFO:root: Fri May 15 16:04:54 2020 : Downloading Data
+INFO:root: Fri May 15 16:05:04 2020 : Parsing Data
+INFO:root: Fri May 15 16:05:04 2020 : Updating Summary
+INFO:root: Fri May 15 16:05:05 2020 : Getting Data
+INFO:root: Fri May 15 16:05:05 2020 : Generating Times
+INFO:root: Fri May 15 16:05:05 2020 : Generating Timeline
+INFO:root: Fri May 15 16:05:05 2020 : Generating Map
+INFO:root: Fri May 15 16:05:08 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 16:05:12 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 16:05:13 2020 : Generating Deaths Bar Chart
+INFO:root: Fri May 15 16:05:14 2020 : Update Completed Successfully
+INFO:root: Fri May 15 16:08:38 2020 : Starting Server Thread
+INFO:root: Fri May 15 16:08:38 2020 : Updating Summary
+INFO:root: Fri May 15 16:09:25 2020 : Database Update Started
+INFO:root: Fri May 15 16:09:25 2020 : Downloading Data
+INFO:root: Fri May 15 16:09:38 2020 : Parsing Data
+INFO:root: Fri May 15 16:09:38 2020 : Updating Summary
+INFO:root: Fri May 15 16:09:39 2020 : Getting Data
+INFO:root: Fri May 15 16:09:39 2020 : Generating Times
+INFO:root: Fri May 15 16:09:39 2020 : Generating Timeline
+INFO:root: Fri May 15 16:09:39 2020 : Generating Map
+INFO:root: Fri May 15 16:10:29 2020 : Starting Server Thread
+INFO:root: Fri May 15 16:10:29 2020 : Updating Summary
+INFO:root: Fri May 15 16:10:35 2020 : Database Update Started
+INFO:root: Fri May 15 16:10:35 2020 : Downloading Data
+INFO:root: Fri May 15 16:10:48 2020 : Parsing Data
+INFO:root: Fri May 15 16:10:50 2020 : Updating Summary
+INFO:root: Fri May 15 16:10:50 2020 : Getting Data
+INFO:root: Fri May 15 16:10:50 2020 : Generating Times
+INFO:root: Fri May 15 16:10:51 2020 : Generating Timeline
+INFO:root: Fri May 15 16:10:51 2020 : Generating Map
+INFO:root: Fri May 15 17:02:12 2020 : Starting Server Thread
+INFO:root: Fri May 15 17:02:12 2020 : Updating Summary
+INFO:root: Fri May 15 17:02:24 2020 : Database Update Started
+INFO:root: Fri May 15 17:02:24 2020 : Downloading Data
+INFO:root: Fri May 15 17:05:55 2020 : Starting Server Thread
+INFO:root: Fri May 15 17:05:55 2020 : Updating Summary
+INFO:root: Fri May 15 17:06:09 2020 : Database Update Started
+INFO:root: Fri May 15 17:06:09 2020 : Downloading Data
+INFO:root: Fri May 15 17:06:17 2020 : Parsing Data
+INFO:root: Fri May 15 17:06:19 2020 : Updating Summary
+INFO:root: Fri May 15 17:06:19 2020 : Getting Data
+INFO:root: Fri May 15 17:06:19 2020 : Generating Times
+INFO:root: Fri May 15 17:06:20 2020 : Generating Timeline
+INFO:root: Fri May 15 17:10:17 2020 : Starting Server Thread
+INFO:root: Fri May 15 17:10:17 2020 : Updating Summary
+INFO:root: Fri May 15 17:10:31 2020 : Database Update Started
+INFO:root: Fri May 15 17:10:31 2020 : Downloading Data
+INFO:root: Fri May 15 17:10:40 2020 : Parsing Data
+INFO:root: Fri May 15 17:10:41 2020 : Updating Summary
+INFO:root: Fri May 15 17:10:42 2020 : Getting Data
+INFO:root: Fri May 15 17:10:42 2020 : Generating Times
+INFO:root: Fri May 15 17:10:42 2020 : Generating Timeline
+INFO:root: Fri May 15 17:10:42 2020 : Generating Map
+INFO:root: Fri May 15 17:15:40 2020 : Starting Server Thread
+INFO:root: Fri May 15 17:15:40 2020 : Updating Summary
+INFO:root: Fri May 15 17:16:50 2020 : Starting Server Thread
+INFO:root: Fri May 15 17:16:50 2020 : Updating Summary
+INFO:root: Fri May 15 17:41:55 2020 : Starting Server Thread
+INFO:root: Fri May 15 17:41:55 2020 : Updating Summary
+INFO:root: Fri May 15 17:45:54 2020 : Starting Server Thread
+INFO:root: Fri May 15 17:45:54 2020 : Updating Summary
+INFO:root: Fri May 15 17:55:44 2020 : Starting Server Thread
+INFO:root: Fri May 15 17:55:44 2020 : Updating Summary
+INFO:root: Fri May 15 19:37:43 2020 : Starting Server Thread
+INFO:root: Fri May 15 19:37:43 2020 : Updating Summary
+INFO:root: Fri May 15 19:42:01 2020 : Starting Server Thread
+INFO:root: Fri May 15 19:42:01 2020 : Updating Summary
+INFO:root: Fri May 15 19:42:54 2020 : Starting Server Thread
+INFO:root: Fri May 15 19:42:54 2020 : Updating Summary
+INFO:root: Fri May 15 19:43:44 2020 : Starting Server Thread
+INFO:root: Fri May 15 19:43:44 2020 : Updating Summary
+INFO:root: Fri May 15 19:45:48 2020 : Starting Server Thread
+INFO:root: Fri May 15 19:45:48 2020 : Updating Summary
+INFO:root: Fri May 15 19:52:29 2020 : Starting Server Thread
+INFO:root: Fri May 15 19:52:29 2020 : Updating Summary
+INFO:root: Fri May 15 19:53:55 2020 : Starting Server Thread
+INFO:root: Fri May 15 19:53:55 2020 : Updating Summary
+INFO:root: Fri May 15 20:03:47 2020 : Starting Server Thread
+INFO:root: Fri May 15 20:03:47 2020 : Updating Summary
+INFO:root: Fri May 15 20:11:06 2020 : Starting Server Thread
+INFO:root: Fri May 15 20:11:06 2020 : Updating Summary
+INFO:root: Fri May 15 20:25:10 2020 : Starting Server Thread
+INFO:root: Fri May 15 20:25:10 2020 : Updating Summary
+INFO:root: Fri May 15 20:25:21 2020 : Database Update Started
+INFO:root: Fri May 15 20:25:21 2020 : Downloading Data
+INFO:root: Fri May 15 20:25:29 2020 : Parsing Data
+INFO:root: Fri May 15 20:25:30 2020 : Updating Summary
+INFO:root: Fri May 15 20:25:32 2020 : Getting Data
+INFO:root: Fri May 15 20:25:32 2020 : Generating Times
+INFO:root: Fri May 15 20:25:32 2020 : Generating Timeline
+INFO:root: Fri May 15 20:25:32 2020 : Generating Map
+INFO:root: Fri May 15 20:25:36 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 20:25:43 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 20:25:45 2020 : Generating Deaths Bar Chart
+INFO:root: Fri May 15 20:25:46 2020 : Update Completed Successfully
+INFO:root: Fri May 15 20:25:48 2020 : Database Update Started
+INFO:root: Fri May 15 20:25:48 2020 : Downloading Data
+INFO:root: Fri May 15 20:25:57 2020 : Parsing Data
+INFO:root: Fri May 15 20:25:57 2020 : Updating Summary
+INFO:root: Fri May 15 20:25:59 2020 : Getting Data
+INFO:root: Fri May 15 20:25:59 2020 : Generating Times
+INFO:root: Fri May 15 20:25:59 2020 : Generating Timeline
+INFO:root: Fri May 15 20:25:59 2020 : Generating Map
+INFO:root: Fri May 15 20:26:02 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 20:26:11 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 20:26:13 2020 : Generating Deaths Bar Chart
+INFO:root: Fri May 15 20:26:14 2020 : Update Completed Successfully
+INFO:root: Fri May 15 20:30:37 2020 : Starting Server Thread
+INFO:root: Fri May 15 20:30:37 2020 : Updating Summary
+INFO:root: Fri May 15 20:30:51 2020 : Database Update Started
+INFO:root: Fri May 15 20:30:51 2020 : Downloading Data
+INFO:root: Fri May 15 20:31:00 2020 : Parsing Data
+INFO:root: Fri May 15 20:31:01 2020 : Updating Summary
+INFO:root: Fri May 15 20:31:02 2020 : Getting Data
+INFO:root: Fri May 15 20:31:02 2020 : Generating Times
+INFO:root: Fri May 15 20:31:02 2020 : Generating Timeline
+INFO:root: Fri May 15 20:31:02 2020 : Generating Map
+INFO:root: Fri May 15 20:31:06 2020 : Generating Bubble Graph
+INFO:root: Fri May 15 20:31:12 2020 : Generating Cases Bar Chart
+INFO:root: Fri May 15 20:31:14 2020 : Generating Deaths Bar Chart
+INFO:root: Fri May 15 20:31:15 2020 : Update Completed Successfully
+INFO:root: Fri May 15 22:09:27 2020 : Starting Server Thread
+INFO:root: Fri May 15 22:09:27 2020 : Updating Summary
+INFO:root: Sat May 16 00:46:12 2020 : Starting Server Thread
+INFO:root: Sat May 16 00:46:12 2020 : Updating Summary
+INFO:root: Sat May 16 00:48:26 2020 : Video Export Starting
+INFO:root: Sat May 16 00:49:08 2020 : Starting Server Thread
+INFO:root: Sat May 16 00:49:08 2020 : Updating Summary
+INFO:root: Sat May 16 00:52:14 2020 : Starting Server Thread
+INFO:root: Sat May 16 00:52:14 2020 : Updating Summary
+INFO:root: Sat May 16 00:53:35 2020 : Starting Server Thread
+INFO:root: Sat May 16 00:53:35 2020 : Updating Summary
+INFO:root: Sat May 16 00:53:42 2020 : Video Export Starting
+INFO:root: Sat May 16 00:53:54 2020 : Rendering Frame 0/114
+INFO:root: Sat May 16 00:53:54 2020 : Rendering Frame 1/114
+INFO:root: Sat May 16 00:53:55 2020 : Rendering Frame 2/114
+INFO:root: Sat May 16 00:53:55 2020 : Rendering Frame 3/114
+INFO:root: Sat May 16 00:53:55 2020 : Rendering Frame 4/114
+INFO:root: Sat May 16 00:53:56 2020 : Rendering Frame 5/114
+INFO:root: Sat May 16 00:53:56 2020 : Rendering Frame 6/114
+INFO:root: Sat May 16 00:53:57 2020 : Rendering Frame 7/114
+INFO:root: Sat May 16 00:53:57 2020 : Rendering Frame 8/114
+INFO:root: Sat May 16 00:53:57 2020 : Rendering Frame 9/114
+INFO:root: Sat May 16 00:53:58 2020 : Rendering Frame 10/114
+INFO:root: Sat May 16 00:53:58 2020 : Rendering Frame 11/114
+INFO:root: Sat May 16 00:53:59 2020 : Rendering Frame 12/114
+INFO:root: Sat May 16 00:53:59 2020 : Rendering Frame 13/114
+INFO:root: Sat May 16 00:53:59 2020 : Rendering Frame 14/114
+INFO:root: Sat May 16 00:54:00 2020 : Rendering Frame 15/114
+INFO:root: Sat May 16 00:54:00 2020 : Rendering Frame 16/114
+INFO:root: Sat May 16 00:54:00 2020 : Rendering Frame 17/114
+INFO:root: Sat May 16 00:54:01 2020 : Rendering Frame 18/114
+INFO:root: Sat May 16 00:54:01 2020 : Rendering Frame 19/114
+INFO:root: Sat May 16 00:54:01 2020 : Rendering Frame 20/114
+INFO:root: Sat May 16 00:54:02 2020 : Rendering Frame 21/114
+INFO:root: Sat May 16 00:54:02 2020 : Rendering Frame 22/114
+INFO:root: Sat May 16 00:54:03 2020 : Rendering Frame 23/114
+INFO:root: Sat May 16 00:54:03 2020 : Rendering Frame 24/114
+INFO:root: Sat May 16 00:54:03 2020 : Rendering Frame 25/114
+INFO:root: Sat May 16 00:54:04 2020 : Rendering Frame 26/114
+INFO:root: Sat May 16 00:54:04 2020 : Rendering Frame 27/114
+INFO:root: Sat May 16 00:54:05 2020 : Rendering Frame 28/114
+INFO:root: Sat May 16 00:54:05 2020 : Rendering Frame 29/114
+INFO:root: Sat May 16 00:54:05 2020 : Rendering Frame 30/114
+INFO:root: Sat May 16 00:54:06 2020 : Rendering Frame 31/114
+INFO:root: Sat May 16 00:54:06 2020 : Rendering Frame 32/114
+INFO:root: Sat May 16 00:54:06 2020 : Rendering Frame 33/114
+INFO:root: Sat May 16 00:54:07 2020 : Rendering Frame 34/114
+INFO:root: Sat May 16 00:54:07 2020 : Rendering Frame 35/114
+INFO:root: Sat May 16 00:54:08 2020 : Rendering Frame 36/114
+INFO:root: Sat May 16 00:54:08 2020 : Rendering Frame 37/114
+INFO:root: Sat May 16 00:54:08 2020 : Rendering Frame 38/114
+INFO:root: Sat May 16 00:54:09 2020 : Rendering Frame 39/114
+INFO:root: Sat May 16 00:54:09 2020 : Rendering Frame 40/114
+INFO:root: Sat May 16 00:54:09 2020 : Rendering Frame 41/114
+INFO:root: Sat May 16 00:54:10 2020 : Rendering Frame 42/114
+INFO:root: Sat May 16 00:54:10 2020 : Rendering Frame 43/114
+INFO:root: Sat May 16 00:54:11 2020 : Rendering Frame 44/114
+INFO:root: Sat May 16 00:54:11 2020 : Rendering Frame 45/114
+INFO:root: Sat May 16 00:54:11 2020 : Rendering Frame 46/114
+INFO:root: Sat May 16 00:54:12 2020 : Rendering Frame 47/114
+INFO:root: Sat May 16 00:54:12 2020 : Rendering Frame 48/114
+INFO:root: Sat May 16 00:54:12 2020 : Rendering Frame 49/114
+INFO:root: Sat May 16 00:54:13 2020 : Rendering Frame 50/114
+INFO:root: Sat May 16 00:54:13 2020 : Rendering Frame 51/114
+INFO:root: Sat May 16 00:54:14 2020 : Rendering Frame 52/114
+INFO:root: Sat May 16 00:54:14 2020 : Rendering Frame 53/114
+INFO:root: Sat May 16 00:54:15 2020 : Rendering Frame 54/114
+INFO:root: Sat May 16 00:54:15 2020 : Rendering Frame 55/114
+INFO:root: Sat May 16 00:54:16 2020 : Rendering Frame 56/114
+INFO:root: Sat May 16 00:54:17 2020 : Rendering Frame 57/114
+INFO:root: Sat May 16 00:54:17 2020 : Rendering Frame 58/114
+INFO:root: Sat May 16 00:54:18 2020 : Rendering Frame 59/114
+INFO:root: Sat May 16 00:54:18 2020 : Rendering Frame 60/114
+INFO:root: Sat May 16 00:54:19 2020 : Rendering Frame 61/114
+INFO:root: Sat May 16 00:54:19 2020 : Rendering Frame 62/114
+INFO:root: Sat May 16 00:54:20 2020 : Rendering Frame 63/114
+INFO:root: Sat May 16 00:54:20 2020 : Rendering Frame 64/114
+INFO:root: Sat May 16 00:54:21 2020 : Rendering Frame 65/114
+INFO:root: Sat May 16 00:54:21 2020 : Rendering Frame 66/114
+INFO:root: Sat May 16 00:54:22 2020 : Rendering Frame 67/114
+INFO:root: Sat May 16 00:54:22 2020 : Rendering Frame 68/114
+INFO:root: Sat May 16 00:54:23 2020 : Rendering Frame 69/114
+INFO:root: Sat May 16 00:54:23 2020 : Rendering Frame 70/114
+INFO:root: Sat May 16 00:54:24 2020 : Rendering Frame 71/114
+INFO:root: Sat May 16 00:54:24 2020 : Rendering Frame 72/114
+INFO:root: Sat May 16 00:54:25 2020 : Rendering Frame 73/114
+INFO:root: Sat May 16 00:54:25 2020 : Rendering Frame 74/114
+INFO:root: Sat May 16 00:54:26 2020 : Rendering Frame 75/114
+INFO:root: Sat May 16 00:54:27 2020 : Rendering Frame 76/114
+INFO:root: Sat May 16 00:54:27 2020 : Rendering Frame 77/114
+INFO:root: Sat May 16 00:54:28 2020 : Rendering Frame 78/114
+INFO:root: Sat May 16 00:54:28 2020 : Rendering Frame 79/114
+INFO:root: Sat May 16 00:54:29 2020 : Rendering Frame 80/114
+INFO:root: Sat May 16 00:54:30 2020 : Rendering Frame 81/114
+INFO:root: Sat May 16 00:54:30 2020 : Rendering Frame 82/114
+INFO:root: Sat May 16 00:54:31 2020 : Rendering Frame 83/114
+INFO:root: Sat May 16 00:54:31 2020 : Rendering Frame 84/114
+INFO:root: Sat May 16 00:54:32 2020 : Rendering Frame 85/114
+INFO:root: Sat May 16 00:54:32 2020 : Rendering Frame 86/114
+INFO:root: Sat May 16 00:54:33 2020 : Rendering Frame 87/114
+INFO:root: Sat May 16 00:54:33 2020 : Rendering Frame 88/114
+INFO:root: Sat May 16 00:54:34 2020 : Rendering Frame 89/114
+INFO:root: Sat May 16 00:54:35 2020 : Rendering Frame 90/114
+INFO:root: Sat May 16 00:54:35 2020 : Rendering Frame 91/114
+INFO:root: Sat May 16 00:54:36 2020 : Rendering Frame 92/114
+INFO:root: Sat May 16 00:54:37 2020 : Rendering Frame 93/114
+INFO:root: Sat May 16 00:54:37 2020 : Rendering Frame 94/114
+INFO:root: Sat May 16 00:54:38 2020 : Rendering Frame 95/114
+INFO:root: Sat May 16 00:54:38 2020 : Rendering Frame 96/114
+INFO:root: Sat May 16 00:54:39 2020 : Rendering Frame 97/114
+INFO:root: Sat May 16 00:54:39 2020 : Rendering Frame 98/114
+INFO:root: Sat May 16 00:54:40 2020 : Rendering Frame 99/114
+INFO:root: Sat May 16 00:54:40 2020 : Rendering Frame 100/114
+INFO:root: Sat May 16 00:54:40 2020 : Rendering Frame 101/114
+INFO:root: Sat May 16 00:54:41 2020 : Rendering Frame 102/114
+INFO:root: Sat May 16 00:54:41 2020 : Rendering Frame 103/114
+INFO:root: Sat May 16 00:54:42 2020 : Rendering Frame 104/114
+INFO:root: Sat May 16 00:54:42 2020 : Rendering Frame 105/114
+INFO:root: Sat May 16 00:54:43 2020 : Rendering Frame 106/114
+INFO:root: Sat May 16 00:54:43 2020 : Rendering Frame 107/114
+INFO:root: Sat May 16 00:54:43 2020 : Rendering Frame 108/114
+INFO:root: Sat May 16 00:54:44 2020 : Rendering Frame 109/114
+INFO:root: Sat May 16 00:54:44 2020 : Rendering Frame 110/114
+INFO:root: Sat May 16 00:54:45 2020 : Rendering Frame 111/114
+INFO:root: Sat May 16 00:54:45 2020 : Rendering Frame 112/114
+INFO:root: Sat May 16 00:54:46 2020 : Rendering Frame 113/114
+INFO:root: Sat May 16 00:54:53 2020 : Writing File
+INFO:root: Sat May 16 02:38:12 2020 : Starting Server Thread
+INFO:root: Sat May 16 02:38:12 2020 : Updating Summary
+INFO:root: Sat May 16 02:45:01 2020 : Starting Server Thread
+INFO:root: Sat May 16 02:45:01 2020 : Updating Summary
+INFO:root: Sat May 16 02:47:49 2020 : Starting Server Thread
+INFO:root: Sat May 16 02:47:49 2020 : Updating Summary
+INFO:root: Sat May 16 03:15:12 2020 : Starting Server Thread
+INFO:root: Sat May 16 03:15:12 2020 : Updating Summary
+INFO:root: Sat May 16 03:27:26 2020 : Starting Server Thread
+INFO:root: Sat May 16 03:27:26 2020 : Updating Summary
+INFO:root: Sat May 16 03:27:37 2020 : Switched to Bubble
+INFO:root: Sat May 16 03:27:37 2020 : Switched to Map
+INFO:root: Sat May 16 03:27:37 2020 : Created Web Channel
+INFO:root: Sat May 16 03:32:21 2020 : Starting Server Thread
+INFO:root: Sat May 16 03:32:21 2020 : Updating Summary
+INFO:root: Sat May 16 03:32:33 2020 : Switched to Bubble
+INFO:root: Sat May 16 03:32:33 2020 : Switched to Map
+INFO:root: Sat May 16 03:32:33 2020 : Created Web Channel
+INFO:root: Sat May 16 13:46:56 2020 : Starting Server Thread
+INFO:root: Sat May 16 13:46:56 2020 : Updating Summary
+INFO:root: Sat May 16 13:47:07 2020 : Switched to Bubble
+INFO:root: Sat May 16 13:47:07 2020 : Switched to BarCases
+INFO:root: Sat May 16 13:48:15 2020 : Switched to BarCases
+INFO:root: Sat May 16 13:48:15 2020 : Switched to BarDeaths
+INFO:root: Sat May 16 13:58:12 2020 : Starting Server Thread
+INFO:root: Sat May 16 13:58:12 2020 : Updating Summary
+INFO:root: Sat May 16 13:58:59 2020 : Starting Server Thread
+INFO:root: Sat May 16 13:58:59 2020 : Updating Summary
+INFO:root: Sat May 16 14:27:14 2020 : Starting Server Thread
+INFO:root: Sat May 16 14:27:14 2020 : Updating Summary
+INFO:root: Sat May 16 14:27:30 2020 : Switched to Bubble
+INFO:root: Sat May 16 14:27:30 2020 : Switched to Map
+INFO:root: Sat May 16 14:27:30 2020 : Created Web Channel
+INFO:root: Sat May 16 14:28:02 2020 : Starting Server Thread
+INFO:root: Sat May 16 14:28:02 2020 : Updating Summary
+INFO:root: Sat May 16 14:28:14 2020 : Switched to Bubble
+INFO:root: Sat May 16 14:28:14 2020 : Switched to Map
+INFO:root: Sat May 16 14:28:14 2020 : Created Web Channel
+INFO:root: Sat May 16 14:30:33 2020 : Starting Server Thread
+INFO:root: Sat May 16 14:30:33 2020 : Updating Summary
+INFO:root: Sat May 16 14:30:44 2020 : Switched to Bubble
+INFO:root: Sat May 16 14:30:44 2020 : Switched to Map
+INFO:root: Sat May 16 14:30:44 2020 : Created Web Channel
+INFO:root: Sat May 16 14:53:46 2020 : Starting Server Thread
+INFO:root: Sat May 16 14:53:46 2020 : Updating Summary
+INFO:root: Sat May 16 15:41:45 2020 : Starting Server Thread
+INFO:root: Sat May 16 15:41:45 2020 : Updating Summary
+INFO:root: Sat May 16 15:41:54 2020 : Switched to Bubble
+INFO:root: Sat May 16 15:41:54 2020 : Switched to Map
+INFO:root: Sat May 16 15:41:54 2020 : Created Web Channel
+INFO:root: Sat May 16 15:44:00 2020 : Starting Server Thread
+INFO:root: Sat May 16 15:44:00 2020 : Updating Summary
+INFO:root: Sat May 16 15:44:09 2020 : Switched to Bubble
+INFO:root: Sat May 16 15:44:09 2020 : Switched to Map
+INFO:root: Sat May 16 15:44:09 2020 : Created Web Channel
+INFO:root: Sat May 16 15:45:20 2020 : Database Update Started
+INFO:root: Sat May 16 15:45:20 2020 : Downloading Data
+INFO:root: Sat May 16 15:45:33 2020 : Parsing Data
+INFO:root: Sat May 16 15:45:34 2020 : Updating Summary
+INFO:root: Sat May 16 15:45:36 2020 : Getting Data
+INFO:root: Sat May 16 15:45:36 2020 : Generating Times
+INFO:root: Sat May 16 15:45:36 2020 : Generating Timeline
+INFO:root: Sat May 16 15:45:36 2020 : Generating Map
+INFO:root: Sat May 16 15:45:39 2020 : Generating Bubble Graph
+INFO:root: Sat May 16 15:56:47 2020 : Starting Server Thread
+INFO:root: Sat May 16 15:56:47 2020 : Updating Summary
+INFO:root: Sat May 16 15:58:46 2020 : Database Update Started
+INFO:root: Sat May 16 15:58:46 2020 : Downloading Data
+INFO:root: Sat May 16 15:58:55 2020 : Parsing Data
+INFO:root: Sat May 16 15:58:56 2020 : Updating Summary
+INFO:root: Sat May 16 15:58:57 2020 : Getting Data
+INFO:root: Sat May 16 15:58:57 2020 : Generating Times
+INFO:root: Sat May 16 15:58:57 2020 : Generating Timeline
+INFO:root: Sat May 16 15:58:58 2020 : Generating Map
+INFO:root: Sat May 16 15:59:02 2020 : Generating Bubble Graph
+INFO:root: Sat May 16 15:59:07 2020 : Generating Cases Bar Chart
+INFO:root: Sat May 16 15:59:09 2020 : Generating Deaths Bar Chart
+INFO:root: Sat May 16 15:59:10 2020 : Update Completed Successfully
+INFO:root: Sat May 16 15:59:39 2020 : Switched to Bubble
+INFO:root: Sat May 16 15:59:39 2020 : Switched to Map
+INFO:root: Sat May 16 15:59:39 2020 : Created Web Channel
+INFO:root: Sat May 16 15:59:44 2020 : Switched to Map
+INFO:root: Sat May 16 15:59:44 2020 : Created Web Channel
+INFO:root: Sat May 16 15:59:44 2020 : Switched to Bubble
+INFO:root: Sat May 16 15:59:56 2020 : Switched to Bubble
+INFO:root: Sat May 16 15:59:56 2020 : Switched to BarCases
+INFO:root: Sat May 16 16:00:11 2020 : Switched to BarCases
+INFO:root: Sat May 16 16:00:11 2020 : Switched to Map
+INFO:root: Sat May 16 16:00:11 2020 : Created Web Channel
+INFO:root: Sat May 16 16:00:17 2020 : Switched to Map
+INFO:root: Sat May 16 16:00:17 2020 : Created Web Channel
+INFO:root: Sat May 16 16:00:17 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:00:32 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:00:32 2020 : Switched to Map
+INFO:root: Sat May 16 16:00:32 2020 : Created Web Channel
+INFO:root: Sat May 16 16:06:03 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:06:03 2020 : Updating Summary
+INFO:root: Sat May 16 16:06:11 2020 : Database Update Started
+INFO:root: Sat May 16 16:06:11 2020 : Downloading Data
+INFO:root: Sat May 16 16:06:19 2020 : Parsing Data
+INFO:root: Sat May 16 16:06:20 2020 : Updating Summary
+INFO:root: Sat May 16 16:06:21 2020 : Getting Data
+INFO:root: Sat May 16 16:06:22 2020 : Generating Times
+INFO:root: Sat May 16 16:06:22 2020 : Generating Timeline
+INFO:root: Sat May 16 16:06:22 2020 : Generating Map
+INFO:root: Sat May 16 16:06:26 2020 : Generating Bubble Graph
+INFO:root: Sat May 16 16:06:36 2020 : Generating Cases Bar Chart
+INFO:root: Sat May 16 16:06:39 2020 : Generating Deaths Bar Chart
+INFO:root: Sat May 16 16:06:41 2020 : Update Completed Successfully
+INFO:root: Sat May 16 16:09:18 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:09:18 2020 : Updating Summary
+INFO:root: Sat May 16 16:09:32 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:09:32 2020 : Switched to Map
+INFO:root: Sat May 16 16:09:32 2020 : Created Web Channel
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:root: Sat May 16 16:14:48 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:14:48 2020 : Updating Summary
+INFO:root: Sat May 16 16:15:00 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:15:00 2020 : Switched to Map
+INFO:root: Sat May 16 16:15:00 2020 : Created Web Channel
+INFO:root: Sat May 16 16:21:09 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:21:09 2020 : Updating Summary
+INFO:root: Sat May 16 16:21:16 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:21:16 2020 : Switched to Map
+INFO:root: Sat May 16 16:21:16 2020 : Created Web Channel
+INFO:root: Sat May 16 16:22:19 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:22:19 2020 : Updating Summary
+INFO:root: Sat May 16 16:22:25 2020 : Database Update Started
+INFO:root: Sat May 16 16:22:25 2020 : Downloading Data
+INFO:root: Sat May 16 16:22:56 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:22:56 2020 : Updating Summary
+INFO:root: Sat May 16 16:25:46 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:25:46 2020 : Updating Summary
+INFO:root: Sat May 16 16:26:03 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:26:03 2020 : Switched to Map
+INFO:root: Sat May 16 16:26:03 2020 : Created Web Channel
+INFO:root: Sat May 16 16:27:46 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:27:46 2020 : Updating Summary
+INFO:root: Sat May 16 16:27:53 2020 : Database Update Started
+INFO:root: Sat May 16 16:27:53 2020 : Downloading Data
+INFO:root: Sat May 16 16:28:02 2020 : Parsing Data
+INFO:root: Sat May 16 16:28:03 2020 : Updating Summary
+INFO:root: Sat May 16 16:28:05 2020 : Getting Data
+INFO:root: Sat May 16 16:28:05 2020 : Generating Times
+INFO:root: Sat May 16 16:28:05 2020 : Generating Timeline
+INFO:root: Sat May 16 16:28:05 2020 : Generating Bubble Graph
+INFO:root: Sat May 16 16:28:14 2020 : Generating Cases Bar Chart
+INFO:root: Sat May 16 16:28:17 2020 : Generating Deaths Bar Chart
+INFO:root: Sat May 16 16:28:20 2020 : Update Completed Successfully
+INFO:root: Sat May 16 16:28:25 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:28:25 2020 : Switched to Map
+INFO:root: Sat May 16 16:28:25 2020 : Created Web Channel
+INFO:root: Sat May 16 16:28:47 2020 : Switched to Map
+INFO:root: Sat May 16 16:28:47 2020 : Created Web Channel
+INFO:root: Sat May 16 16:28:47 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:28:55 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:28:55 2020 : Switched to BarCases
+INFO:root: Sat May 16 16:29:04 2020 : Switched to BarCases
+INFO:root: Sat May 16 16:29:04 2020 : Switched to Map
+INFO:root: Sat May 16 16:29:04 2020 : Created Web Channel
+INFO:root: Sat May 16 16:29:36 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:29:36 2020 : Updating Summary
+INFO:root: Sat May 16 16:31:46 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:31:46 2020 : Updating Summary
+INFO:root: Sat May 16 16:53:00 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:53:00 2020 : Switched to Map
+INFO:root: Sat May 16 16:53:00 2020 : Created Web Channel
+INFO:root: Sat May 16 16:55:17 2020 : Switched to Map
+INFO:root: Sat May 16 16:55:17 2020 : Created Web Channel
+INFO:root: Sat May 16 16:55:17 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:55:20 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:55:20 2020 : Switched to Map
+INFO:root: Sat May 16 16:55:20 2020 : Created Web Channel
+INFO:root: Sat May 16 16:55:59 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:55:59 2020 : Updating Summary
+INFO:root: Sat May 16 16:56:09 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:56:09 2020 : Switched to Map
+INFO:root: Sat May 16 16:56:09 2020 : Created Web Channel
+INFO:root: Sat May 16 16:58:14 2020 : Switched to Map
+INFO:root: Sat May 16 16:58:14 2020 : Created Web Channel
+INFO:root: Sat May 16 16:58:14 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:58:17 2020 : Switched to Bubble
+INFO:root: Sat May 16 16:58:17 2020 : Switched to Map
+INFO:root: Sat May 16 16:58:17 2020 : Created Web Channel
+INFO:root: Sat May 16 16:58:37 2020 : Starting Server Thread
+INFO:root: Sat May 16 16:58:37 2020 : Updating Summary
+INFO:root: Sat May 16 17:03:13 2020 : Switched to Bubble
+INFO:root: Sat May 16 17:03:13 2020 : Switched to Map
+INFO:root: Sat May 16 17:03:13 2020 : Created Web Channel
+INFO:root: Sat May 16 17:03:55 2020 : Switched to Map
+INFO:root: Sat May 16 17:03:55 2020 : Created Web Channel
+INFO:root: Sat May 16 17:03:55 2020 : Switched to EBubble
+INFO:root: Sat May 16 17:26:07 2020 : Starting Server Thread
+INFO:root: Sat May 16 17:26:07 2020 : Updating Summary
+INFO:root: Sat May 16 17:26:23 2020 : Database Update Started
+INFO:root: Sat May 16 17:26:23 2020 : Downloading Data
+INFO:root: Sat May 16 17:26:32 2020 : Parsing Data
+INFO:root: Sat May 16 17:26:34 2020 : Updating Summary
+INFO:root: Sat May 16 17:26:36 2020 : Getting Data
+INFO:root: Sat May 16 17:26:36 2020 : Generating Times
+INFO:root: Sat May 16 17:26:36 2020 : Generating Timeline
+INFO:root: Sat May 16 17:26:36 2020 : Generating Accumulated Data Timeline
+INFO:root: Sat May 16 17:29:19 2020 : Starting Server Thread
+INFO:root: Sat May 16 17:29:19 2020 : Updating Summary
+INFO:root: Sat May 16 17:29:26 2020 : Database Update Started
+INFO:root: Sat May 16 17:29:26 2020 : Downloading Data
+INFO:root: Sat May 16 17:29:36 2020 : Parsing Data
+INFO:root: Sat May 16 17:29:38 2020 : Updating Summary
+INFO:root: Sat May 16 17:29:40 2020 : Getting Data
+INFO:root: Sat May 16 17:29:40 2020 : Generating Times
+INFO:root: Sat May 16 17:29:40 2020 : Generating Timeline
+INFO:root: Sat May 16 17:29:40 2020 : Generating Accumulated Data Timeline
+INFO:root: Sat May 16 17:29:41 2020 : Generating Bubble Graph
+INFO:root: Sat May 16 17:29:55 2020 : Generating Cases Bar Chart
+INFO:root: Sat May 16 17:29:58 2020 : Generating Deaths Bar Chart
+INFO:root: Sat May 16 17:30:00 2020 : Generating Death Rate Bubble Graph
+INFO:root: Sat May 16 17:32:10 2020 : Starting Server Thread
+INFO:root: Sat May 16 17:32:10 2020 : Updating Summary
+INFO:root: Sat May 16 17:32:21 2020 : Database Update Started
+INFO:root: Sat May 16 17:32:21 2020 : Downloading Data
+INFO:root: Sat May 16 17:32:30 2020 : Parsing Data
+INFO:root: Sat May 16 17:32:31 2020 : Updating Summary
+INFO:root: Sat May 16 17:32:32 2020 : Getting Data
+INFO:root: Sat May 16 17:32:32 2020 : Generating Times
+INFO:root: Sat May 16 17:32:32 2020 : Generating Timeline
+INFO:root: Sat May 16 17:32:33 2020 : Generating Accumulated Data Timeline
+INFO:root: Sat May 16 17:32:33 2020 : Generating Bubble Graph
+INFO:root: Sat May 16 17:32:45 2020 : Generating Cases Bar Chart
+INFO:root: Sat May 16 17:32:48 2020 : Generating Deaths Bar Chart
+INFO:root: Sat May 16 17:32:50 2020 : Generating Death Rate Bubble Graph
+INFO:root: Sat May 16 17:33:02 2020 : Update Completed Successfully
+INFO:root: Sat May 16 17:33:05 2020 : Switched to Bubble
+INFO:root: Sat May 16 17:33:05 2020 : Switched to EBubble
+INFO:root: Sat May 16 17:33:43 2020 : Switched to EBubble
+INFO:root: Sat May 16 17:33:43 2020 : Switched to Bubble
+INFO:root: Sat May 16 17:35:32 2020 : Starting Server Thread
+INFO:root: Sat May 16 17:35:32 2020 : Updating Summary
+INFO:root: Sat May 16 17:35:38 2020 : Database Update Started
+INFO:root: Sat May 16 17:35:38 2020 : Downloading Data
+INFO:root: Sat May 16 17:35:47 2020 : Parsing Data
+INFO:root: Sat May 16 17:35:47 2020 : Updating Summary
+INFO:root: Sat May 16 17:35:49 2020 : Getting Data
+INFO:root: Sat May 16 17:35:49 2020 : Generating Times
+INFO:root: Sat May 16 17:35:49 2020 : Generating Timeline
+INFO:root: Sat May 16 17:35:49 2020 : Generating Accumulated Data Timeline
+INFO:root: Sat May 16 17:35:50 2020 : Generating Bubble Graph
+INFO:root: Sat May 16 17:36:00 2020 : Generating Cases Bar Chart
+INFO:root: Sat May 16 17:36:03 2020 : Generating Deaths Bar Chart
+INFO:root: Sat May 16 17:36:05 2020 : Generating Death Rate Bubble Graph
+INFO:root: Sat May 16 17:36:13 2020 : Update Completed Successfully
+INFO:root: Sat May 16 17:36:24 2020 : Switched to Bubble
+INFO:root: Sat May 16 17:36:24 2020 : Switched to EBubble
+INFO:root: Sat May 16 22:11:33 2020 : Starting Server Thread
+INFO:root: Sat May 16 22:11:33 2020 : Updating Summary
+INFO:root: Sat May 16 22:11:42 2020 : Switched to Bubble
+INFO:root: Sat May 16 22:11:42 2020 : Switched to EBubble
+INFO:root: Sat May 16 22:11:48 2020 : Video Export Starting
+INFO:root: Sat May 16 22:12:20 2020 : Starting Server Thread
+INFO:root: Sat May 16 22:12:20 2020 : Updating Summary
+INFO:root: Sat May 16 22:12:25 2020 : Switched to Bubble
+INFO:root: Sat May 16 22:12:25 2020 : Switched to EBubble
+INFO:root: Sat May 16 22:12:26 2020 : Video Export Starting
+INFO:root: Sat May 16 22:13:23 2020 : Starting Server Thread
+INFO:root: Sat May 16 22:13:23 2020 : Updating Summary
+INFO:root: Sat May 16 22:13:28 2020 : Switched to Bubble
+INFO:root: Sat May 16 22:13:28 2020 : Switched to EBubble
+INFO:root: Sat May 16 22:13:29 2020 : Video Export Starting
+INFO:root: Sat May 16 22:14:06 2020 : Starting Server Thread
+INFO:root: Sat May 16 22:14:06 2020 : Updating Summary
+INFO:root: Sat May 16 22:14:10 2020 : Video Export Starting
+INFO:root: Sat May 16 22:14:22 2020 : Rendering Frame 1/115
+INFO:root: Sat May 16 22:14:23 2020 : Rendering Frame 2/115
+INFO:root: Sat May 16 22:14:23 2020 : Rendering Frame 3/115
+INFO:root: Sat May 16 22:14:23 2020 : Rendering Frame 4/115
+INFO:root: Sat May 16 22:14:24 2020 : Rendering Frame 5/115
+INFO:root: Sat May 16 22:14:24 2020 : Rendering Frame 6/115
+INFO:root: Sat May 16 22:14:25 2020 : Rendering Frame 7/115
+INFO:root: Sat May 16 22:14:25 2020 : Rendering Frame 8/115
+INFO:root: Sat May 16 22:14:25 2020 : Rendering Frame 9/115
+INFO:root: Sat May 16 22:14:26 2020 : Rendering Frame 10/115
+INFO:root: Sat May 16 22:14:26 2020 : Rendering Frame 11/115
+INFO:root: Sat May 16 22:14:27 2020 : Rendering Frame 12/115
+INFO:root: Sat May 16 22:14:27 2020 : Rendering Frame 13/115
+INFO:root: Sat May 16 22:14:27 2020 : Rendering Frame 14/115
+INFO:root: Sat May 16 22:14:28 2020 : Rendering Frame 15/115
+INFO:root: Sat May 16 22:14:28 2020 : Rendering Frame 16/115
+INFO:root: Sat May 16 22:14:28 2020 : Rendering Frame 17/115
+INFO:root: Sat May 16 22:14:29 2020 : Rendering Frame 18/115
+INFO:root: Sat May 16 22:14:29 2020 : Rendering Frame 19/115
+INFO:root: Sat May 16 22:14:29 2020 : Rendering Frame 20/115
+INFO:root: Sat May 16 22:14:30 2020 : Rendering Frame 21/115
+INFO:root: Sat May 16 22:14:30 2020 : Rendering Frame 22/115
+INFO:root: Sat May 16 22:14:30 2020 : Rendering Frame 23/115
+INFO:root: Sat May 16 22:14:30 2020 : Rendering Frame 24/115
+INFO:root: Sat May 16 22:14:31 2020 : Rendering Frame 25/115
+INFO:root: Sat May 16 22:14:31 2020 : Rendering Frame 26/115
+INFO:root: Sat May 16 22:14:31 2020 : Rendering Frame 27/115
+INFO:root: Sat May 16 22:14:32 2020 : Rendering Frame 28/115
+INFO:root: Sat May 16 22:14:32 2020 : Rendering Frame 29/115
+INFO:root: Sat May 16 22:14:32 2020 : Rendering Frame 30/115
+INFO:root: Sat May 16 22:14:33 2020 : Rendering Frame 31/115
+INFO:root: Sat May 16 22:14:33 2020 : Rendering Frame 32/115
+INFO:root: Sat May 16 22:14:33 2020 : Rendering Frame 33/115
+INFO:root: Sat May 16 22:14:34 2020 : Rendering Frame 34/115
+INFO:root: Sat May 16 22:14:34 2020 : Rendering Frame 35/115
+INFO:root: Sat May 16 22:14:34 2020 : Rendering Frame 36/115
+INFO:root: Sat May 16 22:14:35 2020 : Rendering Frame 37/115
+INFO:root: Sat May 16 22:14:35 2020 : Rendering Frame 38/115
+INFO:root: Sat May 16 22:14:35 2020 : Rendering Frame 39/115
+INFO:root: Sat May 16 22:14:36 2020 : Rendering Frame 40/115
+INFO:root: Sat May 16 22:14:36 2020 : Rendering Frame 41/115
+INFO:root: Sat May 16 22:14:36 2020 : Rendering Frame 42/115
+INFO:root: Sat May 16 22:14:36 2020 : Rendering Frame 43/115
+INFO:root: Sat May 16 22:14:37 2020 : Rendering Frame 44/115
+INFO:root: Sat May 16 22:14:37 2020 : Rendering Frame 45/115
+INFO:root: Sat May 16 22:14:37 2020 : Rendering Frame 46/115
+INFO:root: Sat May 16 22:14:38 2020 : Rendering Frame 47/115
+INFO:root: Sat May 16 22:14:38 2020 : Rendering Frame 48/115
+INFO:root: Sat May 16 22:14:38 2020 : Rendering Frame 49/115
+INFO:root: Sat May 16 22:14:39 2020 : Rendering Frame 50/115
+INFO:root: Sat May 16 22:14:39 2020 : Rendering Frame 51/115
+INFO:root: Sat May 16 22:14:39 2020 : Rendering Frame 52/115
+INFO:root: Sat May 16 22:14:40 2020 : Rendering Frame 53/115
+INFO:root: Sat May 16 22:14:40 2020 : Rendering Frame 54/115
+INFO:root: Sat May 16 22:14:40 2020 : Rendering Frame 55/115
+INFO:root: Sat May 16 22:14:40 2020 : Rendering Frame 56/115
+INFO:root: Sat May 16 22:14:41 2020 : Rendering Frame 57/115
+INFO:root: Sat May 16 22:14:41 2020 : Rendering Frame 58/115
+INFO:root: Sat May 16 22:14:41 2020 : Rendering Frame 59/115
+INFO:root: Sat May 16 22:14:42 2020 : Rendering Frame 60/115
+INFO:root: Sat May 16 22:14:42 2020 : Rendering Frame 61/115
+INFO:root: Sat May 16 22:14:42 2020 : Rendering Frame 62/115
+INFO:root: Sat May 16 22:14:43 2020 : Rendering Frame 63/115
+INFO:root: Sat May 16 22:14:43 2020 : Rendering Frame 64/115
+INFO:root: Sat May 16 22:14:43 2020 : Rendering Frame 65/115
+INFO:root: Sat May 16 22:14:43 2020 : Rendering Frame 66/115
+INFO:root: Sat May 16 22:14:44 2020 : Rendering Frame 67/115
+INFO:root: Sat May 16 22:14:44 2020 : Rendering Frame 68/115
+INFO:root: Sat May 16 22:14:44 2020 : Rendering Frame 69/115
+INFO:root: Sat May 16 22:14:45 2020 : Rendering Frame 70/115
+INFO:root: Sat May 16 22:14:45 2020 : Rendering Frame 71/115
+INFO:root: Sat May 16 22:14:45 2020 : Rendering Frame 72/115
+INFO:root: Sat May 16 22:14:46 2020 : Rendering Frame 73/115
+INFO:root: Sat May 16 22:14:46 2020 : Rendering Frame 74/115
+INFO:root: Sat May 16 22:14:46 2020 : Rendering Frame 75/115
+INFO:root: Sat May 16 22:14:47 2020 : Rendering Frame 76/115
+INFO:root: Sat May 16 22:14:47 2020 : Rendering Frame 77/115
+INFO:root: Sat May 16 22:14:47 2020 : Rendering Frame 78/115
+INFO:root: Sat May 16 22:14:48 2020 : Rendering Frame 79/115
+INFO:root: Sat May 16 22:14:48 2020 : Rendering Frame 80/115
+INFO:root: Sat May 16 22:14:48 2020 : Rendering Frame 81/115
+INFO:root: Sat May 16 22:14:49 2020 : Rendering Frame 82/115
+INFO:root: Sat May 16 22:14:49 2020 : Rendering Frame 83/115
+INFO:root: Sat May 16 22:14:49 2020 : Rendering Frame 84/115
+INFO:root: Sat May 16 22:14:49 2020 : Rendering Frame 85/115
+INFO:root: Sat May 16 22:14:50 2020 : Rendering Frame 86/115
+INFO:root: Sat May 16 22:14:50 2020 : Rendering Frame 87/115
+INFO:root: Sat May 16 22:14:50 2020 : Rendering Frame 88/115
+INFO:root: Sat May 16 22:14:51 2020 : Rendering Frame 89/115
+INFO:root: Sat May 16 22:14:51 2020 : Rendering Frame 90/115
+INFO:root: Sat May 16 22:14:51 2020 : Rendering Frame 91/115
+INFO:root: Sat May 16 22:14:52 2020 : Rendering Frame 92/115
+INFO:root: Sat May 16 22:14:52 2020 : Rendering Frame 93/115
+INFO:root: Sat May 16 22:14:52 2020 : Rendering Frame 94/115
+INFO:root: Sat May 16 22:14:53 2020 : Rendering Frame 95/115
+INFO:root: Sat May 16 22:14:53 2020 : Rendering Frame 96/115
+INFO:root: Sat May 16 22:14:53 2020 : Rendering Frame 97/115
+INFO:root: Sat May 16 22:14:54 2020 : Rendering Frame 98/115
+INFO:root: Sat May 16 22:14:54 2020 : Rendering Frame 99/115
+INFO:root: Sat May 16 22:14:54 2020 : Rendering Frame 100/115
+INFO:root: Sat May 16 22:14:55 2020 : Rendering Frame 101/115
+INFO:root: Sat May 16 22:14:55 2020 : Rendering Frame 102/115
+INFO:root: Sat May 16 22:14:55 2020 : Rendering Frame 103/115
+INFO:root: Sat May 16 22:14:55 2020 : Rendering Frame 104/115
+INFO:root: Sat May 16 22:14:56 2020 : Rendering Frame 105/115
+INFO:root: Sat May 16 22:14:56 2020 : Rendering Frame 106/115
+INFO:root: Sat May 16 22:14:56 2020 : Rendering Frame 107/115
+INFO:root: Sat May 16 22:14:57 2020 : Rendering Frame 108/115
+INFO:root: Sat May 16 22:14:57 2020 : Rendering Frame 109/115
+INFO:root: Sat May 16 22:14:57 2020 : Rendering Frame 110/115
+INFO:root: Sat May 16 22:14:58 2020 : Rendering Frame 111/115
+INFO:root: Sat May 16 22:14:58 2020 : Rendering Frame 112/115
+INFO:root: Sat May 16 22:14:58 2020 : Rendering Frame 113/115
+INFO:root: Sat May 16 22:14:59 2020 : Rendering Frame 114/115
+INFO:root: Sat May 16 22:14:59 2020 : Rendering Frame 115/115
+INFO:root: Sat May 16 22:14:59 2020 : Rendering Complete
+INFO:root: Sat May 16 22:15:04 2020 : Video Exporting Canceled
+INFO:root: Sat May 16 22:15:06 2020 : Switched to Bubble
+INFO:root: Sat May 16 22:15:06 2020 : Switched to EBubble
+INFO:root: Sat May 16 22:15:08 2020 : Video Export Starting
+INFO:root: Sat May 16 22:15:08 2020 : Rendering Frame 1/115
+INFO:root: Sat May 16 22:15:08 2020 : Rendering Frame 2/115
+INFO:root: Sat May 16 22:15:09 2020 : Rendering Frame 3/115
+INFO:root: Sat May 16 22:15:09 2020 : Rendering Frame 4/115
+INFO:root: Sat May 16 22:15:10 2020 : Rendering Frame 5/115
+INFO:root: Sat May 16 22:15:10 2020 : Rendering Frame 6/115
+INFO:root: Sat May 16 22:15:10 2020 : Rendering Frame 7/115
+INFO:root: Sat May 16 22:15:11 2020 : Rendering Frame 8/115
+INFO:root: Sat May 16 22:15:11 2020 : Rendering Frame 9/115
+INFO:root: Sat May 16 22:15:12 2020 : Rendering Frame 10/115
+INFO:root: Sat May 16 22:15:12 2020 : Rendering Frame 11/115
+INFO:root: Sat May 16 22:15:12 2020 : Rendering Frame 12/115
+INFO:root: Sat May 16 22:15:13 2020 : Rendering Frame 13/115
+INFO:root: Sat May 16 22:15:13 2020 : Rendering Frame 14/115
+INFO:root: Sat May 16 22:15:13 2020 : Rendering Frame 15/115
+INFO:root: Sat May 16 22:15:14 2020 : Rendering Frame 16/115
+INFO:root: Sat May 16 22:15:14 2020 : Rendering Frame 17/115
+INFO:root: Sat May 16 22:15:15 2020 : Rendering Frame 18/115
+INFO:root: Sat May 16 22:15:15 2020 : Rendering Frame 19/115
+INFO:root: Sat May 16 22:15:20 2020 : Rendering Frame 20/115
+INFO:root: Sat May 16 22:16:48 2020 : Starting Server Thread
+INFO:root: Sat May 16 22:16:48 2020 : Updating Summary
+INFO:root: Sat May 16 22:17:08 2020 : Switched to Bubble
+INFO:root: Sat May 16 22:17:08 2020 : Switched to EBubble
+INFO:root: Sat May 16 22:17:10 2020 : Video Export Starting
+INFO:root: Sat May 16 22:17:51 2020 : Starting Server Thread
+INFO:root: Sat May 16 22:17:51 2020 : Updating Summary
+INFO:root: Sat May 16 22:17:56 2020 : Switched to Bubble
+INFO:root: Sat May 16 22:17:56 2020 : Switched to EBubble
+INFO:root: Sat May 16 22:17:58 2020 : Video Export Starting
+INFO:root: Sat May 16 22:18:14 2020 : Starting Server Thread
+INFO:root: Sat May 16 22:18:14 2020 : Updating Summary
+INFO:root: Sat May 16 22:18:46 2020 : Video Export Starting
+INFO:root: Sat May 16 22:18:59 2020 : Rendering Frame 1/115
+INFO:root: Sat May 16 22:19:00 2020 : Rendering Frame 2/115
+INFO:root: Sat May 16 22:19:00 2020 : Rendering Frame 3/115
+INFO:root: Sat May 16 22:19:01 2020 : Rendering Frame 4/115
+INFO:root: Sat May 16 22:19:02 2020 : Rendering Frame 5/115
+INFO:root: Sat May 16 22:19:02 2020 : Rendering Frame 6/115
+INFO:root: Sat May 16 22:19:03 2020 : Rendering Frame 7/115
+INFO:root: Sat May 16 22:19:03 2020 : Rendering Frame 8/115
+INFO:root: Sat May 16 22:19:04 2020 : Rendering Frame 9/115
+INFO:root: Sat May 16 22:19:04 2020 : Rendering Frame 10/115
+INFO:root: Sat May 16 22:19:05 2020 : Rendering Frame 11/115
+INFO:root: Sat May 16 22:19:06 2020 : Rendering Frame 12/115
+INFO:root: Sat May 16 22:19:06 2020 : Rendering Frame 13/115
+INFO:root: Sat May 16 22:19:07 2020 : Rendering Frame 14/115
+INFO:root: Sat May 16 22:19:08 2020 : Rendering Frame 15/115
+INFO:root: Sat May 16 22:19:08 2020 : Rendering Frame 16/115
+INFO:root: Sat May 16 22:19:09 2020 : Rendering Frame 17/115
+INFO:root: Sat May 16 22:19:10 2020 : Rendering Frame 18/115
+INFO:root: Sat May 16 22:19:10 2020 : Rendering Frame 19/115
+INFO:root: Sat May 16 22:19:11 2020 : Rendering Frame 20/115
+INFO:root: Sat May 16 22:19:11 2020 : Rendering Frame 21/115
+INFO:root: Sat May 16 22:19:12 2020 : Rendering Frame 22/115
+INFO:root: Sat May 16 22:19:13 2020 : Rendering Frame 23/115
+INFO:root: Sat May 16 22:19:14 2020 : Rendering Frame 24/115
+INFO:root: Sat May 16 22:19:14 2020 : Rendering Frame 25/115
+INFO:root: Sat May 16 22:19:15 2020 : Rendering Frame 26/115
+INFO:root: Sat May 16 22:19:15 2020 : Rendering Frame 27/115
+INFO:root: Sat May 16 22:19:16 2020 : Rendering Frame 28/115
+INFO:root: Sat May 16 22:19:17 2020 : Rendering Frame 29/115
+INFO:root: Sat May 16 22:19:17 2020 : Rendering Frame 30/115
+INFO:root: Sat May 16 22:19:18 2020 : Rendering Frame 31/115
+INFO:root: Sat May 16 22:19:18 2020 : Rendering Frame 32/115
+INFO:root: Sat May 16 22:19:19 2020 : Rendering Frame 33/115
+INFO:root: Sat May 16 22:19:20 2020 : Rendering Frame 34/115
+INFO:root: Sat May 16 22:19:20 2020 : Rendering Frame 35/115
+INFO:root: Sat May 16 22:19:21 2020 : Rendering Frame 36/115
+INFO:root: Sat May 16 22:19:21 2020 : Rendering Frame 37/115
+INFO:root: Sat May 16 22:19:22 2020 : Rendering Frame 38/115
+INFO:root: Sat May 16 22:19:22 2020 : Rendering Frame 39/115
+INFO:root: Sat May 16 22:19:23 2020 : Rendering Frame 40/115
+INFO:root: Sat May 16 22:19:24 2020 : Rendering Frame 41/115
+INFO:root: Sat May 16 22:19:24 2020 : Rendering Frame 42/115
+INFO:root: Sat May 16 22:19:25 2020 : Rendering Frame 43/115
+INFO:root: Sat May 16 22:19:25 2020 : Rendering Frame 44/115
+INFO:root: Sat May 16 22:19:26 2020 : Rendering Frame 45/115
+INFO:root: Sat May 16 22:19:26 2020 : Rendering Frame 46/115
+INFO:root: Sat May 16 22:19:27 2020 : Rendering Frame 47/115
+INFO:root: Sat May 16 22:19:28 2020 : Rendering Frame 48/115
+INFO:root: Sat May 16 22:19:28 2020 : Rendering Frame 49/115
+INFO:root: Sat May 16 22:19:29 2020 : Rendering Frame 50/115
+INFO:root: Sat May 16 22:19:29 2020 : Rendering Frame 51/115
+INFO:root: Sat May 16 22:19:30 2020 : Rendering Frame 52/115
+INFO:root: Sat May 16 22:19:31 2020 : Rendering Frame 53/115
+INFO:root: Sat May 16 22:19:31 2020 : Rendering Frame 54/115
+INFO:root: Sat May 16 22:19:32 2020 : Rendering Frame 55/115
+INFO:root: Sat May 16 22:19:32 2020 : Rendering Frame 56/115
+INFO:root: Sat May 16 22:19:33 2020 : Rendering Frame 57/115
+INFO:root: Sat May 16 22:19:33 2020 : Rendering Frame 58/115
+INFO:root: Sat May 16 22:19:34 2020 : Rendering Frame 59/115
+INFO:root: Sat May 16 22:19:35 2020 : Rendering Frame 60/115
+INFO:root: Sat May 16 22:19:35 2020 : Rendering Frame 61/115
+INFO:root: Sat May 16 22:19:36 2020 : Rendering Frame 62/115
+INFO:root: Sat May 16 22:19:36 2020 : Rendering Frame 63/115
+INFO:root: Sat May 16 22:19:37 2020 : Rendering Frame 64/115
+INFO:root: Sat May 16 22:19:37 2020 : Rendering Frame 65/115
+INFO:root: Sat May 16 22:19:38 2020 : Rendering Frame 66/115
+INFO:root: Sat May 16 22:19:39 2020 : Rendering Frame 67/115
+INFO:root: Sat May 16 22:19:39 2020 : Rendering Frame 68/115
+INFO:root: Sat May 16 22:19:40 2020 : Rendering Frame 69/115
+INFO:root: Sat May 16 22:19:40 2020 : Rendering Frame 70/115
+INFO:root: Sat May 16 22:19:41 2020 : Rendering Frame 71/115
+INFO:root: Sat May 16 22:19:42 2020 : Rendering Frame 72/115
+INFO:root: Sat May 16 22:19:42 2020 : Rendering Frame 73/115
+INFO:root: Sat May 16 22:19:43 2020 : Rendering Frame 74/115
+INFO:root: Sat May 16 22:19:43 2020 : Rendering Frame 75/115
+INFO:root: Sat May 16 22:19:44 2020 : Rendering Frame 76/115
+INFO:root: Sat May 16 22:19:44 2020 : Rendering Frame 77/115
+INFO:root: Sat May 16 22:19:45 2020 : Rendering Frame 78/115
+INFO:root: Sat May 16 22:19:45 2020 : Rendering Frame 79/115
+INFO:root: Sat May 16 22:19:46 2020 : Rendering Frame 80/115
+INFO:root: Sat May 16 22:19:47 2020 : Rendering Frame 81/115
+INFO:root: Sat May 16 22:19:47 2020 : Rendering Frame 82/115
+INFO:root: Sat May 16 22:19:48 2020 : Rendering Frame 83/115
+INFO:root: Sat May 16 22:19:48 2020 : Rendering Frame 84/115
+INFO:root: Sat May 16 22:19:49 2020 : Rendering Frame 85/115
+INFO:root: Sat May 16 22:19:50 2020 : Rendering Frame 86/115
+INFO:root: Sat May 16 22:19:50 2020 : Rendering Frame 87/115
+INFO:root: Sat May 16 22:19:51 2020 : Rendering Frame 88/115
+INFO:root: Sat May 16 22:19:51 2020 : Rendering Frame 89/115
+INFO:root: Sat May 16 22:19:52 2020 : Rendering Frame 90/115
+INFO:root: Sat May 16 22:19:53 2020 : Rendering Frame 91/115
+INFO:root: Sat May 16 22:19:53 2020 : Rendering Frame 92/115
+INFO:root: Sat May 16 22:19:54 2020 : Rendering Frame 93/115
+INFO:root: Sat May 16 22:19:54 2020 : Rendering Frame 94/115
+INFO:root: Sat May 16 22:19:55 2020 : Rendering Frame 95/115
+INFO:root: Sat May 16 22:19:55 2020 : Rendering Frame 96/115
+INFO:root: Sat May 16 22:19:56 2020 : Rendering Frame 97/115
+INFO:root: Sat May 16 22:19:57 2020 : Rendering Frame 98/115
+INFO:root: Sat May 16 22:19:57 2020 : Rendering Frame 99/115
+INFO:root: Sat May 16 22:19:58 2020 : Rendering Frame 100/115
+INFO:root: Sat May 16 22:19:58 2020 : Rendering Frame 101/115
+INFO:root: Sat May 16 22:19:59 2020 : Rendering Frame 102/115
+INFO:root: Sat May 16 22:20:00 2020 : Rendering Frame 103/115
+INFO:root: Sat May 16 22:20:00 2020 : Rendering Frame 104/115
+INFO:root: Sat May 16 22:20:01 2020 : Rendering Frame 105/115
+INFO:root: Sat May 16 22:20:02 2020 : Rendering Frame 106/115
+INFO:root: Sat May 16 22:20:02 2020 : Rendering Frame 107/115
+INFO:root: Sat May 16 22:20:03 2020 : Rendering Frame 108/115
+INFO:root: Sat May 16 22:20:03 2020 : Rendering Frame 109/115
+INFO:root: Sat May 16 22:20:04 2020 : Rendering Frame 110/115
+INFO:root: Sat May 16 22:20:05 2020 : Rendering Frame 111/115
+INFO:root: Sat May 16 22:20:05 2020 : Rendering Frame 112/115
+INFO:root: Sat May 16 22:20:06 2020 : Rendering Frame 113/115
+INFO:root: Sat May 16 22:20:06 2020 : Rendering Frame 114/115
+INFO:root: Sat May 16 22:20:07 2020 : Rendering Frame 115/115
+INFO:root: Sat May 16 22:20:07 2020 : Rendering Complete
+INFO:root: Sat May 16 22:20:40 2020 : Writing File
+INFO:root: Sat May 16 22:20:41 2020 : Video Exporting Complete
+INFO:root: Sat May 16 22:20:47 2020 : Switched to Bubble
+INFO:root: Sat May 16 22:20:47 2020 : Switched to EBubble
+INFO:root: Sat May 16 22:20:49 2020 : Video Export Starting
+INFO:root: Sat May 16 22:20:49 2020 : Rendering Frame 1/115
+INFO:root: Mon May 18 03:46:36 2020 : Starting Server Thread
+INFO:root: Mon May 18 03:46:36 2020 : Updating Summary
+INFO:root: Mon May 18 04:09:55 2020 : Switched to Bubble
+INFO:root: Mon May 18 04:09:55 2020 : Switched to Map
+INFO:root: Mon May 18 04:09:55 2020 : Created Web Channel
+INFO:root: Mon May 18 04:09:58 2020 : Switched to Map
+INFO:root: Mon May 18 04:09:58 2020 : Created Web Channel
+INFO:root: Mon May 18 04:09:58 2020 : Switched to Bubble
+INFO:root: Mon May 18 04:17:02 2020 : Starting Server Thread
+INFO:root: Mon May 18 04:17:02 2020 : Updating Summary
+INFO:root: Mon May 18 04:26:24 2020 : Starting Server Thread
+INFO:root: Mon May 18 04:26:24 2020 : Updating Summary
+INFO:root: Mon May 18 04:26:33 2020 : Switched to Bubble
+INFO:root: Mon May 18 04:26:33 2020 : Switched to BarCases
+INFO:root: Mon May 18 04:26:48 2020 : Video Export Starting
+INFO:root: Mon May 18 04:27:03 2020 : Rendering Frame 1/115
+INFO:root: Mon May 18 04:27:03 2020 : Rendering Frame 2/115
+INFO:root: Mon May 18 04:27:03 2020 : Rendering Frame 3/115
+INFO:root: Mon May 18 04:27:04 2020 : Rendering Frame 4/115
+INFO:root: Mon May 18 04:27:04 2020 : Rendering Frame 5/115
+INFO:root: Mon May 18 04:27:05 2020 : Rendering Frame 6/115
+INFO:root: Mon May 18 04:27:05 2020 : Rendering Frame 7/115
+INFO:root: Mon May 18 04:27:06 2020 : Rendering Frame 8/115
+INFO:root: Mon May 18 04:27:07 2020 : Rendering Frame 9/115
+INFO:root: Mon May 18 04:27:08 2020 : Rendering Frame 10/115
+INFO:root: Mon May 18 04:27:08 2020 : Rendering Frame 11/115
+INFO:root: Mon May 18 04:27:09 2020 : Rendering Frame 12/115
+INFO:root: Mon May 18 04:27:09 2020 : Rendering Frame 13/115
+INFO:root: Mon May 18 04:27:09 2020 : Rendering Frame 14/115
+INFO:root: Mon May 18 04:27:10 2020 : Rendering Frame 15/115
+INFO:root: Mon May 18 04:27:10 2020 : Rendering Frame 16/115
+INFO:root: Mon May 18 04:27:11 2020 : Rendering Frame 17/115
+INFO:root: Mon May 18 04:27:11 2020 : Rendering Frame 18/115
+INFO:root: Mon May 18 04:27:11 2020 : Rendering Frame 19/115
+INFO:root: Mon May 18 04:27:12 2020 : Rendering Frame 20/115
+INFO:root: Mon May 18 04:27:12 2020 : Rendering Frame 21/115
+INFO:root: Mon May 18 04:27:12 2020 : Rendering Frame 22/115
+INFO:root: Mon May 18 04:27:12 2020 : Rendering Frame 23/115
+INFO:root: Mon May 18 04:27:13 2020 : Rendering Frame 24/115
+INFO:root: Mon May 18 04:27:13 2020 : Rendering Frame 25/115
+INFO:root: Mon May 18 04:27:13 2020 : Rendering Frame 26/115
+INFO:root: Mon May 18 04:27:14 2020 : Rendering Frame 27/115
+INFO:root: Mon May 18 04:27:14 2020 : Rendering Frame 28/115
+INFO:root: Mon May 18 04:27:14 2020 : Rendering Frame 29/115
+INFO:root: Mon May 18 04:27:14 2020 : Rendering Frame 30/115
+INFO:root: Mon May 18 04:27:14 2020 : Rendering Frame 31/115
+INFO:root: Mon May 18 04:27:15 2020 : Rendering Frame 32/115
+INFO:root: Mon May 18 04:27:15 2020 : Rendering Frame 33/115
+INFO:root: Mon May 18 04:27:15 2020 : Rendering Frame 34/115
+INFO:root: Mon May 18 04:27:15 2020 : Rendering Frame 35/115
+INFO:root: Mon May 18 04:27:16 2020 : Rendering Frame 36/115
+INFO:root: Mon May 18 04:27:16 2020 : Rendering Frame 37/115
+INFO:root: Mon May 18 04:27:16 2020 : Rendering Frame 38/115
+INFO:root: Mon May 18 04:27:17 2020 : Rendering Frame 39/115
+INFO:root: Mon May 18 04:27:17 2020 : Rendering Frame 40/115
+INFO:root: Mon May 18 04:27:17 2020 : Rendering Frame 41/115
+INFO:root: Mon May 18 04:27:17 2020 : Rendering Frame 42/115
+INFO:root: Mon May 18 04:27:18 2020 : Rendering Frame 43/115
+INFO:root: Mon May 18 04:27:18 2020 : Rendering Frame 44/115
+INFO:root: Mon May 18 04:27:18 2020 : Rendering Frame 45/115
+INFO:root: Mon May 18 04:27:19 2020 : Rendering Frame 46/115
+INFO:root: Mon May 18 04:27:19 2020 : Rendering Frame 47/115
+INFO:root: Mon May 18 04:27:19 2020 : Rendering Frame 48/115
+INFO:root: Mon May 18 04:27:20 2020 : Rendering Frame 49/115
+INFO:root: Mon May 18 04:27:20 2020 : Rendering Frame 50/115
+INFO:root: Mon May 18 04:27:20 2020 : Rendering Frame 51/115
+INFO:root: Mon May 18 04:27:20 2020 : Rendering Frame 52/115
+INFO:root: Mon May 18 04:27:21 2020 : Rendering Frame 53/115
+INFO:root: Mon May 18 04:27:21 2020 : Rendering Frame 54/115
+INFO:root: Mon May 18 04:27:21 2020 : Rendering Frame 55/115
+INFO:root: Mon May 18 04:27:22 2020 : Rendering Frame 56/115
+INFO:root: Mon May 18 04:27:22 2020 : Rendering Frame 57/115
+INFO:root: Mon May 18 04:27:23 2020 : Rendering Frame 58/115
+INFO:root: Mon May 18 04:27:23 2020 : Rendering Frame 59/115
+INFO:root: Mon May 18 04:27:23 2020 : Rendering Frame 60/115
+INFO:root: Mon May 18 04:27:24 2020 : Rendering Frame 61/115
+INFO:root: Mon May 18 04:27:24 2020 : Rendering Frame 62/115
+INFO:root: Mon May 18 04:27:24 2020 : Rendering Frame 63/115
+INFO:root: Mon May 18 04:27:25 2020 : Rendering Frame 64/115
+INFO:root: Mon May 18 04:27:25 2020 : Rendering Frame 65/115
+INFO:root: Mon May 18 04:27:25 2020 : Rendering Frame 66/115
+INFO:root: Mon May 18 04:27:26 2020 : Rendering Frame 67/115
+INFO:root: Mon May 18 04:27:26 2020 : Rendering Frame 68/115
+INFO:root: Mon May 18 04:27:26 2020 : Rendering Frame 69/115
+INFO:root: Mon May 18 04:27:27 2020 : Rendering Frame 70/115
+INFO:root: Mon May 18 04:27:27 2020 : Rendering Frame 71/115
+INFO:root: Mon May 18 04:27:27 2020 : Rendering Frame 72/115
+INFO:root: Mon May 18 04:27:28 2020 : Rendering Frame 73/115
+INFO:root: Mon May 18 04:27:28 2020 : Rendering Frame 74/115
+INFO:root: Mon May 18 04:27:28 2020 : Rendering Frame 75/115
+INFO:root: Mon May 18 04:27:29 2020 : Rendering Frame 76/115
+INFO:root: Mon May 18 04:27:29 2020 : Rendering Frame 77/115
+INFO:root: Mon May 18 04:27:30 2020 : Rendering Frame 78/115
+INFO:root: Mon May 18 04:27:30 2020 : Rendering Frame 79/115
+INFO:root: Mon May 18 04:27:30 2020 : Rendering Frame 80/115
+INFO:root: Mon May 18 04:27:31 2020 : Rendering Frame 81/115
+INFO:root: Mon May 18 04:27:31 2020 : Rendering Frame 82/115
+INFO:root: Mon May 18 04:27:31 2020 : Rendering Frame 83/115
+INFO:root: Mon May 18 04:27:32 2020 : Rendering Frame 84/115
+INFO:root: Mon May 18 04:27:32 2020 : Rendering Frame 85/115
+INFO:root: Mon May 18 04:27:33 2020 : Rendering Frame 86/115
+INFO:root: Mon May 18 04:27:33 2020 : Rendering Frame 87/115
+INFO:root: Mon May 18 04:27:33 2020 : Rendering Frame 88/115
+INFO:root: Mon May 18 04:27:34 2020 : Rendering Frame 89/115
+INFO:root: Mon May 18 04:27:34 2020 : Rendering Frame 90/115
+INFO:root: Mon May 18 04:27:34 2020 : Rendering Frame 91/115
+INFO:root: Mon May 18 04:27:35 2020 : Rendering Frame 92/115
+INFO:root: Mon May 18 04:27:35 2020 : Rendering Frame 93/115
+INFO:root: Mon May 18 04:27:35 2020 : Rendering Frame 94/115
+INFO:root: Mon May 18 04:27:35 2020 : Rendering Frame 95/115
+INFO:root: Mon May 18 04:27:36 2020 : Rendering Frame 96/115
+INFO:root: Mon May 18 04:27:36 2020 : Rendering Frame 97/115
+INFO:root: Mon May 18 04:27:36 2020 : Rendering Frame 98/115
+INFO:root: Mon May 18 04:27:37 2020 : Rendering Frame 99/115
+INFO:root: Mon May 18 04:27:37 2020 : Rendering Frame 100/115
+INFO:root: Mon May 18 04:27:37 2020 : Rendering Frame 101/115
+INFO:root: Mon May 18 04:27:37 2020 : Rendering Frame 102/115
+INFO:root: Mon May 18 04:27:38 2020 : Rendering Frame 103/115
+INFO:root: Mon May 18 04:27:38 2020 : Rendering Frame 104/115
+INFO:root: Mon May 18 04:27:38 2020 : Rendering Frame 105/115
+INFO:root: Mon May 18 04:27:39 2020 : Rendering Frame 106/115
+INFO:root: Mon May 18 04:27:39 2020 : Rendering Frame 107/115
+INFO:root: Mon May 18 04:27:39 2020 : Rendering Frame 108/115
+INFO:root: Mon May 18 04:27:40 2020 : Rendering Frame 109/115
+INFO:root: Mon May 18 04:27:40 2020 : Rendering Frame 110/115
+INFO:root: Mon May 18 04:27:40 2020 : Rendering Frame 111/115
+INFO:root: Mon May 18 04:27:41 2020 : Rendering Frame 112/115
+INFO:root: Mon May 18 04:27:41 2020 : Rendering Frame 113/115
+INFO:root: Mon May 18 04:27:41 2020 : Rendering Frame 114/115
+INFO:root: Mon May 18 04:27:41 2020 : Rendering Frame 115/115
+INFO:root: Mon May 18 04:27:41 2020 : Rendering Complete
+INFO:root: Mon May 18 04:27:48 2020 : Writing File
+INFO:root: Mon May 18 04:27:48 2020 : Video Exporting Complete
+INFO:root: Mon May 18 04:27:55 2020 : Video Export Starting
+INFO:root: Mon May 18 04:27:56 2020 : Rendering Frame 1/115
+INFO:root: Mon May 18 04:27:56 2020 : Rendering Frame 2/115
+INFO:root: Mon May 18 04:27:56 2020 : Rendering Frame 3/115
+INFO:root: Mon May 18 04:27:56 2020 : Rendering Frame 4/115
+INFO:root: Mon May 18 04:27:56 2020 : Rendering Frame 5/115
+INFO:root: Mon May 18 04:27:57 2020 : Rendering Frame 6/115
+INFO:root: Mon May 18 04:27:57 2020 : Rendering Frame 7/115
+INFO:root: Mon May 18 04:27:57 2020 : Rendering Frame 8/115
+INFO:root: Mon May 18 04:27:57 2020 : Rendering Frame 9/115
+INFO:root: Mon May 18 04:27:57 2020 : Rendering Frame 10/115
+INFO:root: Mon May 18 04:27:58 2020 : Rendering Frame 11/115
+INFO:root: Mon May 18 04:27:58 2020 : Rendering Frame 12/115
+INFO:root: Mon May 18 04:27:58 2020 : Rendering Frame 13/115
+INFO:root: Mon May 18 04:27:58 2020 : Rendering Frame 14/115
+INFO:root: Mon May 18 04:27:58 2020 : Rendering Frame 15/115
+INFO:root: Mon May 18 04:27:59 2020 : Rendering Frame 16/115
+INFO:root: Mon May 18 04:27:59 2020 : Rendering Frame 17/115
+INFO:root: Mon May 18 04:27:59 2020 : Rendering Frame 18/115
+INFO:root: Mon May 18 04:27:59 2020 : Rendering Frame 19/115
+INFO:root: Mon May 18 04:27:59 2020 : Rendering Frame 20/115
+INFO:root: Mon May 18 04:28:00 2020 : Rendering Frame 21/115
+INFO:root: Mon May 18 04:28:00 2020 : Rendering Frame 22/115
+INFO:root: Mon May 18 04:28:00 2020 : Rendering Frame 23/115
+INFO:root: Mon May 18 04:28:00 2020 : Rendering Frame 24/115
+INFO:root: Mon May 18 04:28:00 2020 : Rendering Frame 25/115
+INFO:root: Mon May 18 04:28:01 2020 : Rendering Frame 26/115
+INFO:root: Mon May 18 04:28:01 2020 : Rendering Frame 27/115
+INFO:root: Mon May 18 04:28:01 2020 : Rendering Frame 28/115
+INFO:root: Mon May 18 04:28:01 2020 : Rendering Frame 29/115
+INFO:root: Mon May 18 04:28:01 2020 : Rendering Frame 30/115
+INFO:root: Mon May 18 04:28:01 2020 : Rendering Frame 31/115
+INFO:root: Mon May 18 04:28:02 2020 : Rendering Frame 32/115
+INFO:root: Mon May 18 04:28:02 2020 : Rendering Frame 33/115
+INFO:root: Mon May 18 04:28:02 2020 : Rendering Frame 34/115
+INFO:root: Mon May 18 04:28:02 2020 : Rendering Frame 35/115
+INFO:root: Mon May 18 04:28:02 2020 : Rendering Frame 36/115
+INFO:root: Mon May 18 04:28:03 2020 : Rendering Frame 37/115
+INFO:root: Mon May 18 04:28:03 2020 : Rendering Frame 38/115
+INFO:root: Mon May 18 04:28:03 2020 : Rendering Frame 39/115
+INFO:root: Mon May 18 04:28:03 2020 : Rendering Frame 40/115
+INFO:root: Mon May 18 04:28:04 2020 : Rendering Frame 41/115
+INFO:root: Mon May 18 04:28:04 2020 : Rendering Frame 42/115
+INFO:root: Mon May 18 04:28:04 2020 : Rendering Frame 43/115
+INFO:root: Mon May 18 04:28:04 2020 : Rendering Frame 44/115
+INFO:root: Mon May 18 04:28:05 2020 : Rendering Frame 45/115
+INFO:root: Mon May 18 04:28:05 2020 : Rendering Frame 46/115
+INFO:root: Mon May 18 04:28:05 2020 : Rendering Frame 47/115
+INFO:root: Mon May 18 04:28:05 2020 : Rendering Frame 48/115
+INFO:root: Mon May 18 04:28:06 2020 : Rendering Frame 49/115
+INFO:root: Mon May 18 04:28:06 2020 : Rendering Frame 50/115
+INFO:root: Mon May 18 04:28:06 2020 : Rendering Frame 51/115
+INFO:root: Mon May 18 04:28:06 2020 : Rendering Frame 52/115
+INFO:root: Mon May 18 04:28:07 2020 : Rendering Frame 53/115
+INFO:root: Mon May 18 04:28:07 2020 : Rendering Frame 54/115
+INFO:root: Mon May 18 04:28:07 2020 : Rendering Frame 55/115
+INFO:root: Mon May 18 04:28:08 2020 : Rendering Frame 56/115
+INFO:root: Mon May 18 04:28:08 2020 : Rendering Frame 57/115
+INFO:root: Mon May 18 04:28:08 2020 : Rendering Frame 58/115
+INFO:root: Mon May 18 04:28:08 2020 : Rendering Frame 59/115
+INFO:root: Mon May 18 04:28:09 2020 : Rendering Frame 60/115
+INFO:root: Mon May 18 04:28:09 2020 : Rendering Frame 61/115
+INFO:root: Mon May 18 04:28:09 2020 : Rendering Frame 62/115
+INFO:root: Mon May 18 04:28:10 2020 : Rendering Frame 63/115
+INFO:root: Mon May 18 04:28:10 2020 : Rendering Frame 64/115
+INFO:root: Mon May 18 04:28:10 2020 : Rendering Frame 65/115
+INFO:root: Mon May 18 04:28:10 2020 : Rendering Frame 66/115
+INFO:root: Mon May 18 04:28:11 2020 : Rendering Frame 67/115
+INFO:root: Mon May 18 04:28:11 2020 : Rendering Frame 68/115
+INFO:root: Mon May 18 04:28:11 2020 : Rendering Frame 69/115
+INFO:root: Mon May 18 04:28:12 2020 : Rendering Frame 70/115
+INFO:root: Mon May 18 04:28:12 2020 : Rendering Frame 71/115
+INFO:root: Mon May 18 04:28:12 2020 : Rendering Frame 72/115
+INFO:root: Mon May 18 04:28:13 2020 : Rendering Frame 73/115
+INFO:root: Mon May 18 04:28:13 2020 : Rendering Frame 74/115
+INFO:root: Mon May 18 04:28:13 2020 : Rendering Frame 75/115
+INFO:root: Mon May 18 04:28:13 2020 : Rendering Frame 76/115
+INFO:root: Mon May 18 04:28:14 2020 : Rendering Frame 77/115
+INFO:root: Mon May 18 04:28:14 2020 : Rendering Frame 78/115
+INFO:root: Mon May 18 04:28:14 2020 : Rendering Frame 79/115
+INFO:root: Mon May 18 04:28:15 2020 : Rendering Frame 80/115
+INFO:root: Mon May 18 04:28:15 2020 : Rendering Frame 81/115
+INFO:root: Mon May 18 04:28:15 2020 : Rendering Frame 82/115
+INFO:root: Mon May 18 04:28:15 2020 : Rendering Frame 83/115
+INFO:root: Mon May 18 04:28:16 2020 : Rendering Frame 84/115
+INFO:root: Mon May 18 04:28:16 2020 : Rendering Frame 85/115
+INFO:root: Mon May 18 04:28:16 2020 : Rendering Frame 86/115
+INFO:root: Mon May 18 04:28:17 2020 : Rendering Frame 87/115
+INFO:root: Mon May 18 04:28:17 2020 : Rendering Frame 88/115
+INFO:root: Mon May 18 04:28:17 2020 : Rendering Frame 89/115
+INFO:root: Mon May 18 04:28:18 2020 : Rendering Frame 90/115
+INFO:root: Mon May 18 04:28:18 2020 : Rendering Frame 91/115
+INFO:root: Mon May 18 04:28:18 2020 : Rendering Frame 92/115
+INFO:root: Mon May 18 04:28:18 2020 : Rendering Frame 93/115
+INFO:root: Mon May 18 04:28:19 2020 : Rendering Frame 94/115
+INFO:root: Mon May 18 04:28:19 2020 : Rendering Frame 95/115
+INFO:root: Mon May 18 04:28:19 2020 : Rendering Frame 96/115
+INFO:root: Mon May 18 04:28:20 2020 : Rendering Frame 97/115
+INFO:root: Mon May 18 04:28:20 2020 : Rendering Frame 98/115
+INFO:root: Mon May 18 04:28:20 2020 : Rendering Frame 99/115
+INFO:root: Mon May 18 04:28:21 2020 : Rendering Frame 100/115
+INFO:root: Mon May 18 04:28:21 2020 : Rendering Frame 101/115
+INFO:root: Mon May 18 04:28:21 2020 : Rendering Frame 102/115
+INFO:root: Mon May 18 04:28:21 2020 : Rendering Frame 103/115
+INFO:root: Mon May 18 04:28:22 2020 : Rendering Frame 104/115
+INFO:root: Mon May 18 04:28:22 2020 : Rendering Frame 105/115
+INFO:root: Mon May 18 04:28:22 2020 : Rendering Frame 106/115
+INFO:root: Mon May 18 04:28:23 2020 : Rendering Frame 107/115
+INFO:root: Mon May 18 04:28:23 2020 : Rendering Frame 108/115
+INFO:root: Mon May 18 04:28:23 2020 : Rendering Frame 109/115
+INFO:root: Mon May 18 04:28:24 2020 : Rendering Frame 110/115
+INFO:root: Mon May 18 04:28:24 2020 : Rendering Frame 111/115
+INFO:root: Mon May 18 04:28:24 2020 : Rendering Frame 112/115
+INFO:root: Mon May 18 04:28:25 2020 : Rendering Frame 113/115
+INFO:root: Mon May 18 04:28:25 2020 : Rendering Frame 114/115
+INFO:root: Mon May 18 04:28:25 2020 : Rendering Frame 115/115
+INFO:root: Mon May 18 04:28:25 2020 : Rendering Complete
+INFO:root: Mon May 18 04:29:05 2020 : Starting Server Thread
+INFO:root: Mon May 18 04:29:05 2020 : Updating Summary
+INFO:root: Mon May 18 04:29:14 2020 : Switched to Bubble
+INFO:root: Mon May 18 04:29:14 2020 : Switched to BarCases
+INFO:root: Mon May 18 04:29:17 2020 : Video Export Starting
+INFO:root: Mon May 18 04:29:28 2020 : Rendering Frame 1/115
+INFO:root: Mon May 18 04:29:29 2020 : Rendering Frame 2/115
+INFO:root: Mon May 18 04:29:29 2020 : Rendering Frame 3/115
+INFO:root: Mon May 18 04:29:29 2020 : Rendering Frame 4/115
+INFO:root: Mon May 18 04:29:29 2020 : Rendering Frame 5/115
+INFO:root: Mon May 18 04:29:29 2020 : Rendering Frame 6/115
+INFO:root: Mon May 18 04:29:29 2020 : Rendering Frame 7/115
+INFO:root: Mon May 18 04:29:30 2020 : Rendering Frame 8/115
+INFO:root: Mon May 18 04:29:30 2020 : Rendering Frame 9/115
+INFO:root: Mon May 18 04:29:30 2020 : Rendering Frame 10/115
+INFO:root: Mon May 18 04:29:30 2020 : Rendering Frame 11/115
+INFO:root: Mon May 18 04:29:30 2020 : Rendering Frame 12/115
+INFO:root: Mon May 18 04:29:30 2020 : Rendering Frame 13/115
+INFO:root: Mon May 18 04:29:31 2020 : Rendering Frame 14/115
+INFO:root: Mon May 18 04:29:31 2020 : Rendering Frame 15/115
+INFO:root: Mon May 18 04:29:31 2020 : Rendering Frame 16/115
+INFO:root: Mon May 18 04:29:31 2020 : Rendering Frame 17/115
+INFO:root: Mon May 18 04:29:31 2020 : Rendering Frame 18/115
+INFO:root: Mon May 18 04:29:31 2020 : Rendering Frame 19/115
+INFO:root: Mon May 18 04:29:32 2020 : Rendering Frame 20/115
+INFO:root: Mon May 18 04:29:32 2020 : Rendering Frame 21/115
+INFO:root: Mon May 18 04:29:32 2020 : Rendering Frame 22/115
+INFO:root: Mon May 18 04:29:32 2020 : Rendering Frame 23/115
+INFO:root: Mon May 18 04:29:32 2020 : Rendering Frame 24/115
+INFO:root: Mon May 18 04:29:32 2020 : Rendering Frame 25/115
+INFO:root: Mon May 18 04:29:32 2020 : Rendering Frame 26/115
+INFO:root: Mon May 18 04:29:33 2020 : Rendering Frame 27/115
+INFO:root: Mon May 18 04:29:33 2020 : Rendering Frame 28/115
+INFO:root: Mon May 18 04:29:33 2020 : Rendering Frame 29/115
+INFO:root: Mon May 18 04:29:33 2020 : Rendering Frame 30/115
+INFO:root: Mon May 18 04:29:33 2020 : Rendering Frame 31/115
+INFO:root: Mon May 18 04:29:33 2020 : Rendering Frame 32/115
+INFO:root: Mon May 18 04:29:34 2020 : Rendering Frame 33/115
+INFO:root: Mon May 18 04:29:34 2020 : Rendering Frame 34/115
+INFO:root: Mon May 18 04:29:34 2020 : Rendering Frame 35/115
+INFO:root: Mon May 18 04:29:34 2020 : Rendering Frame 36/115
+INFO:root: Mon May 18 04:29:34 2020 : Rendering Frame 37/115
+INFO:root: Mon May 18 04:29:34 2020 : Rendering Frame 38/115
+INFO:root: Mon May 18 04:29:35 2020 : Rendering Frame 39/115
+INFO:root: Mon May 18 04:29:35 2020 : Rendering Frame 40/115
+INFO:root: Mon May 18 04:29:35 2020 : Rendering Frame 41/115
+INFO:root: Mon May 18 04:29:35 2020 : Rendering Frame 42/115
+INFO:root: Mon May 18 04:29:35 2020 : Rendering Frame 43/115
+INFO:root: Mon May 18 04:29:36 2020 : Rendering Frame 44/115
+INFO:root: Mon May 18 04:29:36 2020 : Rendering Frame 45/115
+INFO:root: Mon May 18 04:29:36 2020 : Rendering Frame 46/115
+INFO:root: Mon May 18 04:29:36 2020 : Rendering Frame 47/115
+INFO:root: Mon May 18 04:29:36 2020 : Rendering Frame 48/115
+INFO:root: Mon May 18 04:29:37 2020 : Rendering Frame 49/115
+INFO:root: Mon May 18 04:29:37 2020 : Rendering Frame 50/115
+INFO:root: Mon May 18 04:29:37 2020 : Rendering Frame 51/115
+INFO:root: Mon May 18 04:29:37 2020 : Rendering Frame 52/115
+INFO:root: Mon May 18 04:29:38 2020 : Rendering Frame 53/115
+INFO:root: Mon May 18 04:29:38 2020 : Rendering Frame 54/115
+INFO:root: Mon May 18 04:29:38 2020 : Rendering Frame 55/115
+INFO:root: Mon May 18 04:29:38 2020 : Rendering Frame 56/115
+INFO:root: Mon May 18 04:29:39 2020 : Rendering Frame 57/115
+INFO:root: Mon May 18 04:29:39 2020 : Rendering Frame 58/115
+INFO:root: Mon May 18 04:29:39 2020 : Rendering Frame 59/115
+INFO:root: Mon May 18 04:29:39 2020 : Rendering Frame 60/115
+INFO:root: Mon May 18 04:29:39 2020 : Rendering Frame 61/115
+INFO:root: Mon May 18 04:29:40 2020 : Rendering Frame 62/115
+INFO:root: Mon May 18 04:29:40 2020 : Rendering Frame 63/115
+INFO:root: Mon May 18 04:29:40 2020 : Rendering Frame 64/115
+INFO:root: Mon May 18 04:29:40 2020 : Rendering Frame 65/115
+INFO:root: Mon May 18 04:29:41 2020 : Rendering Frame 66/115
+INFO:root: Mon May 18 04:29:41 2020 : Rendering Frame 67/115
+INFO:root: Mon May 18 04:29:41 2020 : Rendering Frame 68/115
+INFO:root: Mon May 18 04:29:41 2020 : Rendering Frame 69/115
+INFO:root: Mon May 18 04:29:42 2020 : Rendering Frame 70/115
+INFO:root: Mon May 18 04:29:42 2020 : Rendering Frame 71/115
+INFO:root: Mon May 18 04:29:42 2020 : Rendering Frame 72/115
+INFO:root: Mon May 18 04:29:42 2020 : Rendering Frame 73/115
+INFO:root: Mon May 18 04:29:43 2020 : Rendering Frame 74/115
+INFO:root: Mon May 18 04:29:43 2020 : Rendering Frame 75/115
+INFO:root: Mon May 18 04:29:43 2020 : Rendering Frame 76/115
+INFO:root: Mon May 18 04:29:43 2020 : Rendering Frame 77/115
+INFO:root: Mon May 18 04:29:44 2020 : Rendering Frame 78/115
+INFO:root: Mon May 18 04:29:44 2020 : Rendering Frame 79/115
+INFO:root: Mon May 18 04:29:44 2020 : Rendering Frame 80/115
+INFO:root: Mon May 18 04:29:44 2020 : Rendering Frame 81/115
+INFO:root: Mon May 18 04:29:45 2020 : Rendering Frame 82/115
+INFO:root: Mon May 18 04:29:45 2020 : Rendering Frame 83/115
+INFO:root: Mon May 18 04:29:45 2020 : Rendering Frame 84/115
+INFO:root: Mon May 18 04:29:45 2020 : Rendering Frame 85/115
+INFO:root: Mon May 18 04:29:46 2020 : Rendering Frame 86/115
+INFO:root: Mon May 18 04:29:46 2020 : Rendering Frame 87/115
+INFO:root: Mon May 18 04:29:46 2020 : Rendering Frame 88/115
+INFO:root: Mon May 18 04:29:46 2020 : Rendering Frame 89/115
+INFO:root: Mon May 18 04:29:47 2020 : Rendering Frame 90/115
+INFO:root: Mon May 18 04:29:47 2020 : Rendering Frame 91/115
+INFO:root: Mon May 18 04:29:48 2020 : Rendering Frame 92/115
+INFO:root: Mon May 18 04:29:48 2020 : Rendering Frame 93/115
+INFO:root: Mon May 18 04:29:48 2020 : Rendering Frame 94/115
+INFO:root: Mon May 18 04:29:49 2020 : Rendering Frame 95/115
+INFO:root: Mon May 18 04:29:49 2020 : Rendering Frame 96/115
+INFO:root: Mon May 18 04:29:49 2020 : Rendering Frame 97/115
+INFO:root: Mon May 18 04:29:50 2020 : Rendering Frame 98/115
+INFO:root: Mon May 18 04:29:50 2020 : Rendering Frame 99/115
+INFO:root: Mon May 18 04:29:51 2020 : Rendering Frame 100/115
+INFO:root: Mon May 18 04:29:51 2020 : Rendering Frame 101/115
+INFO:root: Mon May 18 04:29:51 2020 : Rendering Frame 102/115
+INFO:root: Mon May 18 04:29:52 2020 : Rendering Frame 103/115
+INFO:root: Mon May 18 04:29:52 2020 : Rendering Frame 104/115
+INFO:root: Mon May 18 04:29:52 2020 : Rendering Frame 105/115
+INFO:root: Mon May 18 04:29:53 2020 : Rendering Frame 106/115
+INFO:root: Mon May 18 04:29:53 2020 : Rendering Frame 107/115
+INFO:root: Mon May 18 04:29:53 2020 : Rendering Frame 108/115
+INFO:root: Mon May 18 04:29:54 2020 : Rendering Frame 109/115
+INFO:root: Mon May 18 04:29:54 2020 : Rendering Frame 110/115
+INFO:root: Mon May 18 04:29:55 2020 : Rendering Frame 111/115
+INFO:root: Mon May 18 04:29:55 2020 : Rendering Frame 112/115
+INFO:root: Mon May 18 04:29:55 2020 : Rendering Frame 113/115
+INFO:root: Mon May 18 04:29:56 2020 : Rendering Frame 114/115
+INFO:root: Mon May 18 04:29:56 2020 : Rendering Frame 115/115
+INFO:root: Mon May 18 04:29:56 2020 : Rendering Complete
+INFO:root: Mon May 18 04:30:05 2020 : Writing File
+INFO:root: Mon May 18 04:30:06 2020 : Video Exporting Complete
+INFO:root: Mon May 18 17:00:21 2020 : Starting Server Thread
+INFO:root: Mon May 18 17:00:21 2020 : Updating Summary
+INFO:root: Mon May 18 17:00:36 2020 : Video Export Starting
+INFO:root: Mon May 18 17:00:53 2020 : Rendering Frame 1/115
+INFO:root: Mon May 18 17:00:54 2020 : Rendering Frame 2/115
+INFO:root: Mon May 18 17:00:55 2020 : Rendering Frame 3/115
+INFO:root: Mon May 18 17:00:56 2020 : Rendering Frame 4/115
+INFO:root: Mon May 18 17:00:57 2020 : Rendering Frame 5/115
+INFO:root: Mon May 18 17:00:57 2020 : Rendering Frame 6/115
+INFO:root: Mon May 18 17:00:58 2020 : Rendering Frame 7/115
+INFO:root: Mon May 18 17:00:58 2020 : Rendering Frame 8/115
+INFO:root: Mon May 18 17:00:59 2020 : Rendering Frame 9/115
+INFO:root: Mon May 18 17:00:59 2020 : Rendering Frame 10/115
+INFO:root: Mon May 18 17:01:00 2020 : Rendering Frame 11/115
+INFO:root: Mon May 18 17:01:01 2020 : Rendering Frame 12/115
+INFO:root: Mon May 18 17:01:02 2020 : Rendering Frame 13/115
+INFO:root: Mon May 18 17:01:03 2020 : Rendering Frame 14/115
+INFO:root: Mon May 18 17:01:03 2020 : Rendering Frame 15/115
+INFO:root: Mon May 18 17:01:04 2020 : Rendering Frame 16/115
+INFO:root: Mon May 18 17:01:04 2020 : Rendering Frame 17/115
+INFO:root: Mon May 18 17:01:04 2020 : Rendering Frame 18/115
+INFO:root: Mon May 18 17:01:05 2020 : Rendering Frame 19/115
+INFO:root: Mon May 18 17:01:05 2020 : Rendering Frame 20/115
+INFO:root: Mon May 18 17:01:06 2020 : Rendering Frame 21/115
+INFO:root: Mon May 18 17:01:06 2020 : Rendering Frame 22/115
+INFO:root: Mon May 18 17:01:07 2020 : Rendering Frame 23/115
+INFO:root: Mon May 18 17:01:08 2020 : Rendering Frame 24/115
+INFO:root: Mon May 18 17:01:08 2020 : Rendering Frame 25/115
+INFO:root: Mon May 18 17:01:09 2020 : Rendering Frame 26/115
+INFO:root: Mon May 18 17:01:10 2020 : Rendering Frame 27/115
+INFO:root: Mon May 18 17:01:10 2020 : Rendering Frame 28/115
+INFO:root: Mon May 18 17:01:11 2020 : Rendering Frame 29/115
+INFO:root: Mon May 18 17:01:11 2020 : Rendering Frame 30/115
+INFO:root: Mon May 18 17:01:12 2020 : Rendering Frame 31/115
+INFO:root: Mon May 18 17:01:12 2020 : Rendering Frame 32/115
+INFO:root: Mon May 18 17:01:12 2020 : Rendering Frame 33/115
+INFO:root: Mon May 18 17:01:13 2020 : Rendering Frame 34/115
+INFO:root: Mon May 18 17:01:13 2020 : Rendering Frame 35/115
+INFO:root: Mon May 18 17:01:14 2020 : Rendering Frame 36/115
+INFO:root: Mon May 18 17:01:15 2020 : Rendering Frame 37/115
+INFO:root: Mon May 18 17:01:16 2020 : Rendering Frame 38/115
+INFO:root: Mon May 18 17:01:16 2020 : Rendering Frame 39/115
+INFO:root: Mon May 18 17:01:17 2020 : Rendering Frame 40/115
+INFO:root: Mon May 18 17:01:17 2020 : Rendering Frame 41/115
+INFO:root: Mon May 18 17:01:18 2020 : Rendering Frame 42/115
+INFO:root: Mon May 18 17:01:18 2020 : Rendering Frame 43/115
+INFO:root: Mon May 18 17:01:19 2020 : Rendering Frame 44/115
+INFO:root: Mon May 18 17:01:19 2020 : Rendering Frame 45/115
+INFO:root: Mon May 18 17:01:19 2020 : Rendering Frame 46/115
+INFO:root: Mon May 18 17:01:20 2020 : Rendering Frame 47/115
+INFO:root: Mon May 18 17:01:20 2020 : Rendering Frame 48/115
+INFO:root: Mon May 18 17:01:21 2020 : Rendering Frame 49/115
+INFO:root: Mon May 18 17:01:21 2020 : Rendering Frame 50/115
+INFO:root: Mon May 18 17:01:22 2020 : Rendering Frame 51/115
+INFO:root: Mon May 18 17:01:28 2020 : Starting Server Thread
+INFO:root: Mon May 18 17:01:28 2020 : Updating Summary
+INFO:root: Mon May 18 17:01:35 2020 : Video Export Starting
+INFO:root: Mon May 18 17:01:48 2020 : Rendering Frame 1/115
+INFO:root: Mon May 18 17:01:49 2020 : Rendering Frame 2/115
+INFO:root: Mon May 18 17:01:49 2020 : Rendering Frame 3/115
+INFO:root: Mon May 18 17:01:50 2020 : Rendering Frame 4/115
+INFO:root: Mon May 18 17:01:51 2020 : Rendering Frame 5/115
+INFO:root: Mon May 18 17:01:53 2020 : Rendering Frame 6/115
+INFO:root: Mon May 18 17:01:54 2020 : Rendering Frame 7/115
+INFO:root: Mon May 18 17:01:54 2020 : Rendering Frame 8/115
+INFO:root: Mon May 18 17:01:55 2020 : Rendering Frame 9/115
+INFO:root: Mon May 18 17:01:56 2020 : Rendering Frame 10/115
+INFO:root: Mon May 18 17:01:56 2020 : Rendering Frame 11/115
+INFO:root: Mon May 18 17:01:57 2020 : Rendering Frame 12/115
+INFO:root: Mon May 18 17:01:57 2020 : Rendering Frame 13/115
+INFO:root: Mon May 18 17:01:58 2020 : Rendering Frame 14/115
+INFO:root: Mon May 18 17:01:59 2020 : Rendering Frame 15/115
+INFO:root: Mon May 18 17:01:59 2020 : Rendering Frame 16/115
+INFO:root: Mon May 18 17:02:00 2020 : Rendering Frame 17/115
+INFO:root: Mon May 18 17:02:00 2020 : Rendering Frame 18/115
+INFO:root: Mon May 18 17:02:01 2020 : Rendering Frame 19/115
+INFO:root: Mon May 18 17:02:02 2020 : Rendering Frame 20/115
+INFO:root: Mon May 18 17:02:02 2020 : Rendering Frame 21/115
+INFO:root: Mon May 18 17:02:04 2020 : Rendering Frame 22/115
+INFO:root: Mon May 18 17:02:04 2020 : Rendering Frame 23/115
+INFO:root: Mon May 18 17:02:05 2020 : Rendering Frame 24/115
+INFO:root: Mon May 18 17:02:06 2020 : Rendering Frame 25/115
+INFO:root: Mon May 18 17:02:07 2020 : Rendering Frame 26/115
+INFO:root: Mon May 18 17:02:07 2020 : Rendering Frame 27/115
+INFO:root: Mon May 18 17:02:08 2020 : Rendering Frame 28/115
+INFO:root: Mon May 18 17:02:09 2020 : Rendering Frame 29/115
+INFO:root: Mon May 18 17:02:09 2020 : Rendering Frame 30/115
+INFO:root: Mon May 18 17:02:10 2020 : Rendering Frame 31/115
+INFO:root: Mon May 18 17:02:11 2020 : Rendering Frame 32/115
+INFO:root: Mon May 18 17:02:12 2020 : Rendering Frame 33/115
+INFO:root: Mon May 18 17:02:12 2020 : Rendering Frame 34/115
+INFO:root: Mon May 18 17:02:13 2020 : Rendering Frame 35/115
+INFO:root: Mon May 18 17:02:14 2020 : Rendering Frame 36/115
+INFO:root: Mon May 18 17:02:14 2020 : Rendering Frame 37/115
+INFO:root: Mon May 18 17:02:15 2020 : Rendering Frame 38/115
+INFO:root: Mon May 18 17:02:16 2020 : Rendering Frame 39/115
+INFO:root: Mon May 18 17:02:16 2020 : Rendering Frame 40/115
+INFO:root: Mon May 18 17:02:17 2020 : Rendering Frame 41/115
+INFO:root: Mon May 18 17:02:18 2020 : Rendering Frame 42/115
+INFO:root: Mon May 18 17:02:18 2020 : Rendering Frame 43/115
+INFO:root: Mon May 18 17:02:19 2020 : Rendering Frame 44/115
+INFO:root: Mon May 18 17:02:20 2020 : Rendering Frame 45/115
+INFO:root: Mon May 18 17:02:20 2020 : Rendering Frame 46/115
+INFO:root: Mon May 18 17:02:21 2020 : Rendering Frame 47/115
+INFO:root: Mon May 18 17:02:22 2020 : Rendering Frame 48/115
+INFO:root: Mon May 18 17:02:22 2020 : Rendering Frame 49/115
+INFO:root: Mon May 18 17:02:23 2020 : Rendering Frame 50/115
+INFO:root: Mon May 18 17:02:23 2020 : Rendering Frame 51/115
+INFO:root: Mon May 18 17:02:24 2020 : Rendering Frame 52/115
+INFO:root: Mon May 18 17:02:25 2020 : Rendering Frame 53/115
+INFO:root: Mon May 18 17:02:25 2020 : Rendering Frame 54/115
+INFO:root: Mon May 18 17:02:26 2020 : Rendering Frame 55/115
+INFO:root: Mon May 18 17:02:27 2020 : Rendering Frame 56/115
+INFO:root: Mon May 18 17:02:27 2020 : Rendering Frame 57/115
+INFO:root: Mon May 18 17:02:28 2020 : Rendering Frame 58/115
+INFO:root: Mon May 18 17:02:28 2020 : Rendering Frame 59/115
+INFO:root: Mon May 18 17:02:29 2020 : Rendering Frame 60/115
+INFO:root: Mon May 18 17:02:29 2020 : Rendering Frame 61/115
+INFO:root: Mon May 18 17:02:30 2020 : Rendering Frame 62/115
+INFO:root: Mon May 18 17:02:31 2020 : Rendering Frame 63/115
+INFO:root: Mon May 18 17:02:31 2020 : Rendering Frame 64/115
+INFO:root: Mon May 18 17:02:32 2020 : Rendering Frame 65/115
+INFO:root: Mon May 18 17:02:32 2020 : Rendering Frame 66/115
+INFO:root: Mon May 18 17:02:34 2020 : Rendering Frame 67/115
+INFO:root: Mon May 18 17:02:35 2020 : Rendering Frame 68/115
+INFO:root: Mon May 18 17:02:36 2020 : Rendering Frame 69/115
+INFO:root: Mon May 18 17:02:36 2020 : Rendering Frame 70/115
+INFO:root: Mon May 18 17:02:37 2020 : Rendering Frame 71/115
+INFO:root: Mon May 18 17:02:38 2020 : Rendering Frame 72/115
+INFO:root: Mon May 18 17:02:39 2020 : Rendering Frame 73/115
+INFO:root: Mon May 18 17:02:39 2020 : Rendering Frame 74/115
+INFO:root: Mon May 18 17:02:40 2020 : Rendering Frame 75/115
+INFO:root: Mon May 18 17:02:40 2020 : Rendering Frame 76/115
+INFO:root: Mon May 18 17:02:41 2020 : Rendering Frame 77/115
+INFO:root: Mon May 18 17:02:42 2020 : Rendering Frame 78/115
+INFO:root: Mon May 18 17:02:42 2020 : Rendering Frame 79/115
+INFO:root: Mon May 18 17:02:43 2020 : Rendering Frame 80/115
+INFO:root: Mon May 18 17:02:43 2020 : Rendering Frame 81/115
+INFO:root: Mon May 18 17:02:44 2020 : Rendering Frame 82/115
+INFO:root: Mon May 18 17:02:44 2020 : Rendering Frame 83/115
+INFO:root: Mon May 18 17:02:45 2020 : Rendering Frame 84/115
+INFO:root: Mon May 18 17:02:46 2020 : Rendering Frame 85/115
+INFO:root: Mon May 18 17:02:46 2020 : Rendering Frame 86/115
+INFO:root: Mon May 18 17:02:47 2020 : Rendering Frame 87/115
+INFO:root: Mon May 18 17:02:47 2020 : Rendering Frame 88/115
+INFO:root: Mon May 18 17:02:48 2020 : Rendering Frame 89/115
+INFO:root: Mon May 18 17:02:48 2020 : Rendering Frame 90/115
+INFO:root: Mon May 18 17:02:49 2020 : Rendering Frame 91/115
+INFO:root: Mon May 18 17:02:49 2020 : Rendering Frame 92/115
+INFO:root: Mon May 18 17:02:50 2020 : Rendering Frame 93/115
+INFO:root: Mon May 18 17:02:51 2020 : Rendering Frame 94/115
+INFO:root: Mon May 18 17:02:51 2020 : Rendering Frame 95/115
+INFO:root: Mon May 18 17:02:51 2020 : Rendering Frame 96/115
+INFO:root: Mon May 18 17:02:52 2020 : Rendering Frame 97/115
+INFO:root: Mon May 18 17:02:53 2020 : Rendering Frame 98/115
+INFO:root: Mon May 18 17:02:53 2020 : Rendering Frame 99/115
+INFO:root: Mon May 18 17:02:53 2020 : Rendering Frame 100/115
+INFO:root: Mon May 18 17:02:54 2020 : Rendering Frame 101/115
+INFO:root: Mon May 18 17:02:54 2020 : Rendering Frame 102/115
+INFO:root: Mon May 18 17:02:55 2020 : Rendering Frame 103/115
+INFO:root: Mon May 18 17:02:55 2020 : Rendering Frame 104/115
+INFO:root: Mon May 18 17:02:56 2020 : Rendering Frame 105/115
+INFO:root: Mon May 18 17:02:56 2020 : Rendering Frame 106/115
+INFO:root: Mon May 18 17:02:57 2020 : Rendering Frame 107/115
+INFO:root: Mon May 18 17:02:57 2020 : Rendering Frame 108/115
+INFO:root: Mon May 18 17:02:58 2020 : Rendering Frame 109/115
+INFO:root: Mon May 18 17:02:58 2020 : Rendering Frame 110/115
+INFO:root: Mon May 18 17:02:59 2020 : Rendering Frame 111/115
+INFO:root: Mon May 18 17:02:59 2020 : Rendering Frame 112/115
+INFO:root: Mon May 18 17:03:00 2020 : Rendering Frame 113/115
+INFO:root: Mon May 18 17:03:01 2020 : Rendering Frame 114/115
+INFO:root: Mon May 18 17:03:01 2020 : Rendering Frame 115/115
+INFO:root: Mon May 18 17:03:01 2020 : Rendering Complete
+INFO:root: Mon May 18 17:03:10 2020 : Video Exporting Canceled
+INFO:root: Mon May 18 17:03:15 2020 : Switched to Bubble
+INFO:root: Mon May 18 17:03:15 2020 : Switched to EBubble
+INFO:root: Mon May 18 17:03:18 2020 : Video Export Starting
+INFO:root: Mon May 18 17:03:18 2020 : Rendering Frame 1/115
+INFO:root: Mon May 18 17:03:19 2020 : Rendering Frame 2/115
+INFO:root: Mon May 18 17:03:20 2020 : Rendering Frame 3/115
+INFO:root: Mon May 18 17:03:20 2020 : Rendering Frame 4/115
+INFO:root: Mon May 18 17:03:21 2020 : Rendering Frame 5/115
+INFO:root: Mon May 18 17:03:21 2020 : Rendering Frame 6/115
+INFO:root: Mon May 18 17:03:22 2020 : Rendering Frame 7/115
+INFO:root: Mon May 18 17:03:23 2020 : Rendering Frame 8/115
+INFO:root: Mon May 18 17:03:23 2020 : Rendering Frame 9/115
+INFO:root: Mon May 18 17:03:24 2020 : Rendering Frame 10/115
+INFO:root: Mon May 18 17:03:24 2020 : Rendering Frame 11/115
+INFO:root: Mon May 18 17:03:25 2020 : Rendering Frame 12/115
+INFO:root: Mon May 18 17:03:25 2020 : Rendering Frame 13/115
+INFO:root: Mon May 18 17:03:26 2020 : Rendering Frame 14/115
+INFO:root: Mon May 18 17:03:26 2020 : Rendering Frame 15/115
+INFO:root: Mon May 18 17:03:27 2020 : Rendering Frame 16/115
+INFO:root: Mon May 18 17:03:27 2020 : Rendering Frame 17/115
+INFO:root: Mon May 18 17:03:28 2020 : Rendering Frame 18/115
+INFO:root: Mon May 18 17:03:28 2020 : Rendering Frame 19/115
+INFO:root: Mon May 18 17:03:29 2020 : Rendering Frame 20/115
+INFO:root: Mon May 18 17:03:29 2020 : Rendering Frame 21/115
+INFO:root: Mon May 18 17:03:30 2020 : Rendering Frame 22/115
+INFO:root: Mon May 18 17:03:30 2020 : Rendering Frame 23/115
+INFO:root: Mon May 18 17:03:31 2020 : Rendering Frame 24/115
+INFO:root: Mon May 18 17:03:31 2020 : Rendering Frame 25/115
+INFO:root: Mon May 18 17:03:32 2020 : Rendering Frame 26/115
+INFO:root: Mon May 18 17:03:32 2020 : Rendering Frame 27/115
+INFO:root: Mon May 18 17:03:33 2020 : Rendering Frame 28/115
+INFO:root: Mon May 18 17:03:33 2020 : Rendering Frame 29/115
+INFO:root: Mon May 18 17:03:33 2020 : Rendering Frame 30/115
+INFO:root: Mon May 18 17:03:34 2020 : Rendering Frame 31/115
+INFO:root: Mon May 18 17:03:34 2020 : Rendering Frame 32/115
+INFO:root: Mon May 18 17:03:35 2020 : Rendering Frame 33/115
+INFO:root: Mon May 18 17:03:35 2020 : Rendering Frame 34/115
+INFO:root: Mon May 18 17:03:36 2020 : Rendering Frame 35/115
+INFO:root: Mon May 18 17:03:36 2020 : Rendering Frame 36/115
+INFO:root: Mon May 18 17:03:37 2020 : Rendering Frame 37/115
+INFO:root: Mon May 18 17:03:37 2020 : Rendering Frame 38/115
+INFO:root: Mon May 18 17:03:37 2020 : Rendering Frame 39/115
+INFO:root: Mon May 18 17:03:38 2020 : Rendering Frame 40/115
+INFO:root: Mon May 18 17:03:38 2020 : Rendering Frame 41/115
+INFO:root: Mon May 18 17:03:39 2020 : Rendering Frame 42/115
+INFO:root: Mon May 18 17:03:39 2020 : Rendering Frame 43/115
+INFO:root: Mon May 18 17:03:39 2020 : Rendering Frame 44/115
+INFO:root: Mon May 18 17:03:40 2020 : Rendering Frame 45/115
+INFO:root: Mon May 18 17:03:40 2020 : Rendering Frame 46/115
+INFO:root: Mon May 18 17:03:41 2020 : Rendering Frame 47/115
+INFO:root: Mon May 18 17:03:41 2020 : Rendering Frame 48/115
+INFO:root: Mon May 18 17:03:42 2020 : Rendering Frame 49/115
+INFO:root: Mon May 18 17:03:42 2020 : Database Update Started
+INFO:root: Mon May 18 17:03:42 2020 : Downloading Data
+INFO:root: Mon May 18 17:03:42 2020 : Rendering Frame 50/115
+INFO:root: Mon May 18 17:03:43 2020 : Rendering Frame 51/115
+INFO:root: Mon May 18 17:03:43 2020 : Rendering Frame 52/115
+INFO:root: Mon May 18 17:03:44 2020 : Rendering Frame 53/115
+INFO:root: Mon May 18 17:03:44 2020 : Rendering Frame 54/115
+INFO:root: Mon May 18 17:03:44 2020 : Rendering Frame 55/115
+INFO:root: Mon May 18 17:03:45 2020 : Rendering Frame 56/115
+INFO:root: Mon May 18 17:03:45 2020 : Rendering Frame 57/115
+INFO:root: Mon May 18 17:03:46 2020 : Rendering Frame 58/115
+INFO:root: Mon May 18 17:03:46 2020 : Rendering Frame 59/115
+INFO:root: Mon May 18 17:03:47 2020 : Rendering Frame 60/115
+INFO:root: Mon May 18 17:03:47 2020 : Rendering Frame 61/115
+INFO:root: Mon May 18 17:03:48 2020 : Rendering Frame 62/115
+INFO:root: Mon May 18 17:03:48 2020 : Rendering Frame 63/115
+INFO:root: Mon May 18 17:03:49 2020 : Rendering Frame 64/115
+INFO:root: Mon May 18 17:03:49 2020 : Rendering Frame 65/115
+INFO:root: Mon May 18 17:03:50 2020 : Rendering Frame 66/115
+INFO:root: Mon May 18 17:03:50 2020 : Rendering Frame 67/115
+INFO:root: Mon May 18 17:03:51 2020 : Rendering Frame 68/115
+INFO:root: Mon May 18 17:03:52 2020 : Rendering Frame 69/115
+INFO:root: Mon May 18 17:03:53 2020 : Rendering Frame 70/115
+INFO:root: Mon May 18 17:03:54 2020 : Rendering Frame 71/115
+INFO:root: Mon May 18 17:03:54 2020 : Rendering Frame 72/115
+INFO:root: Mon May 18 17:03:55 2020 : Rendering Frame 73/115
+INFO:root: Mon May 18 17:03:55 2020 : Rendering Frame 74/115
+INFO:root: Mon May 18 17:03:56 2020 : Rendering Frame 75/115
+INFO:root: Mon May 18 17:03:57 2020 : Parsing Data
+INFO:root: Mon May 18 17:03:57 2020 : Rendering Frame 76/115
+INFO:root: Mon May 18 17:03:58 2020 : Rendering Frame 77/115
+INFO:root: Mon May 18 17:03:58 2020 : Rendering Frame 78/115
+INFO:root: Mon May 18 17:03:58 2020 : Updating Summary
+INFO:root: Mon May 18 17:03:59 2020 : Getting Data
+INFO:root: Mon May 18 17:03:59 2020 : Generating Times
+INFO:root: Mon May 18 17:03:59 2020 : Generating Timeline
+INFO:root: Mon May 18 17:03:59 2020 : Rendering Frame 79/115
+INFO:root: Mon May 18 17:04:00 2020 : Generating Accumulated Data Timeline
+INFO:root: Mon May 18 17:04:31 2020 : Starting Server Thread
+INFO:root: Mon May 18 17:04:31 2020 : Updating Summary
+INFO:root: Mon May 18 17:07:09 2020 : Database Update Started
+INFO:root: Mon May 18 17:07:09 2020 : Downloading Data
+INFO:root: Mon May 18 17:07:12 2020 : Video Export Starting
+INFO:root: Mon May 18 17:07:23 2020 : Rendering Frame 1/117
+INFO:root: Mon May 18 17:07:23 2020 : Rendering Frame 2/117
+INFO:root: Mon May 18 17:07:23 2020 : Rendering Frame 3/117
+INFO:root: Mon May 18 17:07:24 2020 : Rendering Frame 4/117
+INFO:root: Mon May 18 17:07:24 2020 : Rendering Frame 5/117
+INFO:root: Mon May 18 17:07:24 2020 : Rendering Frame 6/117
+INFO:root: Mon May 18 17:07:25 2020 : Rendering Frame 7/117
+INFO:root: Mon May 18 17:07:25 2020 : Rendering Frame 8/117
+INFO:root: Mon May 18 17:07:25 2020 : Rendering Frame 9/117
+INFO:root: Mon May 18 17:07:26 2020 : Rendering Frame 10/117
+INFO:root: Mon May 18 17:07:26 2020 : Rendering Frame 11/117
+INFO:root: Mon May 18 17:07:26 2020 : Rendering Frame 12/117
+INFO:root: Mon May 18 17:07:27 2020 : Rendering Frame 13/117
+INFO:root: Mon May 18 17:07:27 2020 : Rendering Frame 14/117
+INFO:root: Mon May 18 17:07:28 2020 : Rendering Frame 15/117
+INFO:root: Mon May 18 17:07:28 2020 : Rendering Frame 16/117
+INFO:root: Mon May 18 17:07:28 2020 : Rendering Frame 17/117
+INFO:root: Mon May 18 17:07:29 2020 : Rendering Frame 18/117
+INFO:root: Mon May 18 17:07:29 2020 : Rendering Frame 19/117
+INFO:root: Mon May 18 17:07:29 2020 : Rendering Frame 20/117
+INFO:root: Mon May 18 17:07:29 2020 : Rendering Frame 21/117
+INFO:root: Mon May 18 17:07:30 2020 : Rendering Frame 22/117
+INFO:root: Mon May 18 17:07:30 2020 : Rendering Frame 23/117
+INFO:root: Mon May 18 17:07:30 2020 : Rendering Frame 24/117
+INFO:root: Mon May 18 17:07:31 2020 : Rendering Frame 25/117
+INFO:root: Mon May 18 17:07:31 2020 : Rendering Frame 26/117
+INFO:root: Mon May 18 17:07:31 2020 : Rendering Frame 27/117
+INFO:root: Mon May 18 17:07:32 2020 : Rendering Frame 28/117
+INFO:root: Mon May 18 17:07:32 2020 : Rendering Frame 29/117
+INFO:root: Mon May 18 17:07:32 2020 : Rendering Frame 30/117
+INFO:root: Mon May 18 17:07:33 2020 : Rendering Frame 31/117
+INFO:root: Mon May 18 17:07:33 2020 : Rendering Frame 32/117
+INFO:root: Mon May 18 17:07:33 2020 : Rendering Frame 33/117
+INFO:root: Mon May 18 17:07:34 2020 : Rendering Frame 34/117
+INFO:root: Mon May 18 17:07:34 2020 : Rendering Frame 35/117
+INFO:root: Mon May 18 17:07:35 2020 : Rendering Frame 36/117
+INFO:root: Mon May 18 17:07:35 2020 : Rendering Frame 37/117
+INFO:root: Mon May 18 17:07:35 2020 : Rendering Frame 38/117
+INFO:root: Mon May 18 17:07:36 2020 : Rendering Frame 39/117
+INFO:root: Mon May 18 17:07:36 2020 : Rendering Frame 40/117
+INFO:root: Mon May 18 17:07:36 2020 : Parsing Data
+INFO:root: Mon May 18 17:07:36 2020 : Rendering Frame 41/117
+INFO:root: Mon May 18 17:07:37 2020 : Rendering Frame 42/117
+INFO:root: Mon May 18 17:07:37 2020 : Updating Summary
+INFO:root: Mon May 18 17:07:37 2020 : Rendering Frame 43/117
+INFO:root: Mon May 18 17:07:37 2020 : Rendering Frame 44/117
+INFO:root: Mon May 18 17:07:37 2020 : Getting Data
+INFO:root: Mon May 18 17:07:38 2020 : Generating Times
+INFO:root: Mon May 18 17:07:38 2020 : Generating Timeline
+INFO:root: Mon May 18 17:07:38 2020 : Rendering Frame 45/117
+INFO:root: Mon May 18 17:07:38 2020 : Generating Accumulated Data Timeline
+INFO:root: Mon May 18 17:07:38 2020 : Generating Bubble Graph
+INFO:root: Mon May 18 17:07:38 2020 : Rendering Frame 46/117
+INFO:root: Mon May 18 17:07:39 2020 : Rendering Frame 47/117
+INFO:root: Mon May 18 17:07:40 2020 : Rendering Frame 48/117
+INFO:root: Mon May 18 17:07:40 2020 : Rendering Frame 49/117
+INFO:root: Mon May 18 17:07:41 2020 : Rendering Frame 50/117
+INFO:root: Mon May 18 17:07:42 2020 : Rendering Frame 51/117
+INFO:root: Mon May 18 17:07:42 2020 : Rendering Frame 52/117
+INFO:root: Mon May 18 17:07:43 2020 : Rendering Frame 53/117
+INFO:root: Mon May 18 17:07:44 2020 : Rendering Frame 54/117
+INFO:root: Mon May 18 17:07:45 2020 : Rendering Frame 55/117
+INFO:root: Mon May 18 17:07:46 2020 : Rendering Frame 56/117
+INFO:root: Mon May 18 17:07:46 2020 : Generating Cases Bar Chart
+INFO:root: Mon May 18 17:07:47 2020 : Rendering Frame 57/117
+INFO:root: Mon May 18 17:07:48 2020 : Rendering Frame 58/117
+INFO:root: Mon May 18 17:07:48 2020 : Generating Deaths Bar Chart
+INFO:root: Mon May 18 17:07:48 2020 : Rendering Frame 59/117
+INFO:root: Mon May 18 17:07:49 2020 : Generating Death Rate Bubble Graph
+INFO:root: Mon May 18 17:07:49 2020 : Rendering Frame 60/117
+INFO:root: Mon May 18 17:07:50 2020 : Rendering Frame 61/117
+INFO:root: Mon May 18 17:07:51 2020 : Rendering Frame 62/117
+INFO:root: Mon May 18 17:07:52 2020 : Rendering Frame 63/117
+INFO:root: Mon May 18 17:07:52 2020 : Rendering Frame 64/117
+INFO:root: Mon May 18 17:07:53 2020 : Rendering Frame 65/117
+INFO:root: Mon May 18 17:07:54 2020 : Rendering Frame 66/117
+INFO:root: Mon May 18 17:07:54 2020 : Rendering Frame 67/117
+INFO:root: Mon May 18 17:07:55 2020 : Rendering Frame 68/117
+INFO:root: Mon May 18 17:07:56 2020 : Rendering Frame 69/117
+INFO:root: Mon May 18 17:07:57 2020 : Update Completed Successfully
+INFO:root: Mon May 18 17:07:57 2020 : Rendering Frame 70/117
+INFO:root: Mon May 18 17:07:58 2020 : Rendering Frame 71/117
+INFO:root: Mon May 18 17:07:58 2020 : Rendering Frame 72/117
+INFO:root: Mon May 18 17:07:59 2020 : Rendering Frame 73/117
+INFO:root: Mon May 18 17:07:59 2020 : Rendering Frame 74/117
+INFO:root: Mon May 18 17:08:00 2020 : Rendering Frame 75/117
+INFO:root: Mon May 18 17:08:00 2020 : Rendering Frame 76/117
+INFO:root: Mon May 18 17:08:01 2020 : Rendering Frame 77/117
+INFO:root: Mon May 18 17:08:01 2020 : Rendering Frame 78/117
+INFO:root: Mon May 18 17:08:02 2020 : Rendering Frame 79/117
+INFO:root: Mon May 18 17:08:02 2020 : Rendering Frame 80/117
+INFO:root: Mon May 18 17:08:03 2020 : Rendering Frame 81/117
+INFO:root: Mon May 18 17:08:03 2020 : Rendering Frame 82/117
+INFO:root: Mon May 18 17:08:04 2020 : Rendering Frame 83/117
+INFO:root: Mon May 18 17:08:05 2020 : Rendering Frame 84/117
+INFO:root: Mon May 18 17:08:05 2020 : Rendering Frame 85/117
+INFO:root: Mon May 18 17:08:06 2020 : Rendering Frame 86/117
+INFO:root: Mon May 18 17:08:06 2020 : Rendering Frame 87/117
+INFO:root: Mon May 18 17:08:07 2020 : Rendering Frame 88/117
+INFO:root: Mon May 18 17:08:07 2020 : Rendering Frame 89/117
+INFO:root: Mon May 18 17:08:08 2020 : Rendering Frame 90/117
+INFO:root: Mon May 18 17:08:08 2020 : Rendering Frame 91/117
+INFO:root: Mon May 18 17:08:09 2020 : Rendering Frame 92/117
+INFO:root: Mon May 18 17:08:09 2020 : Rendering Frame 93/117
+INFO:root: Mon May 18 17:08:09 2020 : Rendering Frame 94/117
+INFO:root: Mon May 18 17:08:10 2020 : Rendering Frame 95/117
+INFO:root: Mon May 18 17:08:11 2020 : Rendering Frame 96/117
+INFO:root: Mon May 18 17:08:11 2020 : Rendering Frame 97/117
+INFO:root: Mon May 18 17:08:11 2020 : Rendering Frame 98/117
+INFO:root: Mon May 18 17:08:12 2020 : Rendering Frame 99/117
+INFO:root: Mon May 18 17:08:12 2020 : Rendering Frame 100/117
+INFO:root: Mon May 18 17:08:13 2020 : Rendering Frame 101/117
+INFO:root: Mon May 18 17:08:13 2020 : Rendering Frame 102/117
+INFO:root: Mon May 18 17:08:14 2020 : Rendering Frame 103/117
+INFO:root: Mon May 18 17:08:14 2020 : Rendering Frame 104/117
+INFO:root: Mon May 18 17:08:15 2020 : Rendering Frame 105/117
+INFO:root: Mon May 18 17:08:15 2020 : Rendering Frame 106/117
+INFO:root: Mon May 18 17:08:16 2020 : Rendering Frame 107/117
+INFO:root: Mon May 18 17:08:17 2020 : Rendering Frame 108/117
+INFO:root: Mon May 18 17:08:17 2020 : Rendering Frame 109/117
+INFO:root: Mon May 18 17:08:18 2020 : Rendering Frame 110/117
+INFO:root: Mon May 18 17:08:18 2020 : Rendering Frame 111/117
+INFO:root: Mon May 18 17:08:19 2020 : Rendering Frame 112/117
+INFO:root: Mon May 18 17:08:19 2020 : Rendering Frame 113/117
+INFO:root: Mon May 18 17:08:20 2020 : Rendering Frame 114/117
+INFO:root: Mon May 18 17:08:20 2020 : Rendering Frame 115/117
+INFO:root: Mon May 18 17:08:21 2020 : Rendering Frame 116/117
+INFO:root: Mon May 18 17:08:21 2020 : Rendering Frame 117/117
+INFO:root: Mon May 18 17:08:22 2020 : Rendering Frame 118/117
+INFO:root: Mon May 18 17:08:23 2020 : Rendering Frame 119/117
+INFO:root: Mon May 18 17:08:23 2020 : Rendering Frame 120/117
+INFO:root: Mon May 18 17:08:24 2020 : Rendering Frame 121/117
+INFO:root: Mon May 18 17:08:25 2020 : Rendering Frame 122/117
+INFO:root: Mon May 18 17:08:25 2020 : Rendering Frame 123/117
+INFO:root: Mon May 18 17:08:26 2020 : Rendering Frame 124/117
+INFO:root: Mon May 18 17:08:26 2020 : Rendering Frame 125/117
+INFO:root: Mon May 18 17:08:27 2020 : Rendering Frame 126/117
+INFO:root: Mon May 18 17:08:28 2020 : Rendering Frame 127/117
+INFO:root: Mon May 18 17:08:28 2020 : Rendering Frame 128/117
+INFO:root: Mon May 18 17:08:29 2020 : Rendering Frame 129/117
+INFO:root: Mon May 18 17:08:30 2020 : Rendering Frame 130/117
+INFO:root: Mon May 18 17:08:30 2020 : Rendering Frame 131/117
+INFO:root: Mon May 18 17:08:31 2020 : Rendering Frame 132/117
+INFO:root: Mon May 18 17:08:32 2020 : Rendering Frame 133/117
+INFO:root: Mon May 18 17:08:33 2020 : Rendering Frame 134/117
+INFO:root: Mon May 18 17:08:33 2020 : Rendering Frame 135/117
+INFO:root: Mon May 18 17:08:34 2020 : Rendering Frame 136/117
+INFO:root: Mon May 18 17:08:35 2020 : Rendering Frame 137/117
+INFO:root: Mon May 18 17:08:35 2020 : Rendering Frame 138/117
+INFO:root: Mon May 18 17:08:36 2020 : Rendering Frame 139/117
+INFO:root: Mon May 18 17:08:37 2020 : Rendering Frame 140/117
+INFO:root: Mon May 18 17:08:37 2020 : Rendering Frame 141/117
+INFO:root: Mon May 18 17:08:38 2020 : Rendering Frame 142/117
+INFO:root: Mon May 18 17:08:39 2020 : Rendering Frame 143/117
+INFO:root: Mon May 18 17:08:39 2020 : Rendering Frame 144/117
+INFO:root: Mon May 18 17:08:40 2020 : Rendering Frame 145/117
+INFO:root: Mon May 18 17:08:41 2020 : Rendering Frame 146/117
+INFO:root: Mon May 18 17:08:41 2020 : Rendering Frame 147/117
+INFO:root: Mon May 18 17:08:42 2020 : Rendering Frame 148/117
+INFO:root: Mon May 18 17:08:43 2020 : Rendering Frame 149/117
+INFO:root: Mon May 18 17:08:43 2020 : Rendering Frame 150/117
+INFO:root: Mon May 18 17:08:44 2020 : Rendering Frame 151/117
+INFO:root: Mon May 18 17:08:44 2020 : Rendering Frame 152/117
+INFO:root: Mon May 18 17:08:45 2020 : Rendering Frame 153/117
+INFO:root: Mon May 18 17:08:46 2020 : Rendering Frame 154/117
+INFO:root: Mon May 18 17:08:47 2020 : Rendering Frame 155/117
+INFO:root: Mon May 18 17:08:47 2020 : Rendering Frame 156/117
+INFO:root: Mon May 18 17:08:48 2020 : Rendering Frame 157/117
+INFO:root: Mon May 18 17:08:49 2020 : Rendering Frame 158/117
+INFO:root: Mon May 18 17:08:50 2020 : Rendering Frame 159/117
+INFO:root: Mon May 18 17:08:50 2020 : Rendering Frame 160/117
+INFO:root: Mon May 18 17:08:51 2020 : Rendering Frame 161/117
+INFO:root: Mon May 18 17:08:52 2020 : Rendering Frame 162/117
+INFO:root: Mon May 18 17:08:52 2020 : Rendering Frame 163/117
+INFO:root: Mon May 18 17:08:53 2020 : Rendering Frame 164/117
+INFO:root: Mon May 18 17:08:54 2020 : Rendering Frame 165/117
+INFO:root: Mon May 18 17:08:54 2020 : Rendering Frame 166/117
+INFO:root: Mon May 18 17:08:55 2020 : Rendering Frame 167/117
+INFO:root: Mon May 18 17:08:55 2020 : Rendering Frame 168/117
+INFO:root: Mon May 18 17:08:56 2020 : Rendering Frame 169/117
+INFO:root: Mon May 18 17:08:57 2020 : Rendering Frame 170/117
+INFO:root: Mon May 18 17:08:58 2020 : Rendering Frame 171/117
+INFO:root: Mon May 18 17:08:58 2020 : Rendering Frame 172/117
+INFO:root: Mon May 18 17:08:59 2020 : Rendering Frame 173/117
+INFO:root: Mon May 18 17:09:00 2020 : Rendering Frame 174/117
+INFO:root: Mon May 18 17:09:00 2020 : Rendering Frame 175/117
+INFO:root: Mon May 18 17:09:01 2020 : Rendering Frame 176/117
+INFO:root: Mon May 18 17:09:02 2020 : Rendering Frame 177/117
+INFO:root: Mon May 18 17:09:02 2020 : Rendering Frame 178/117
+INFO:root: Mon May 18 17:09:03 2020 : Rendering Frame 179/117
+INFO:root: Mon May 18 17:09:04 2020 : Rendering Frame 180/117
+INFO:root: Mon May 18 17:09:04 2020 : Rendering Frame 181/117
+INFO:root: Mon May 18 17:09:05 2020 : Rendering Frame 182/117
+INFO:root: Mon May 18 17:09:06 2020 : Rendering Frame 183/117
+INFO:root: Mon May 18 17:09:07 2020 : Rendering Frame 184/117
+INFO:root: Mon May 18 17:09:07 2020 : Rendering Frame 185/117
