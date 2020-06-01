@@ -31,4 +31,4 @@ Rendering Complete, choose where to save your video.<br><br>
 ![Or Not](Images/Screenshot_2.png)<br>
 Or Not.<br><br>
 ![Save](Images/Screenshot_514.png)<br><br>
-Saving Complete! Thank you for your time and for viewing our app. ~~and the full mark~~
+Saving Complete! Thank you for your time and for viewing our app.
