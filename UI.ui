@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>769</width>
-    <height>648</height>
+    <width>922</width>
+    <height>711</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -245,7 +245,7 @@
            <item>
             <widget class="QRadioButton" name="EBubble">
              <property name="text">
-              <string>Extra Bubble</string>
+              <string>Death Rate</string>
              </property>
             </widget>
            </item>
@@ -324,7 +324,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>769</width>
+     <width>922</width>
      <height>20</height>
     </rect>
    </property>
