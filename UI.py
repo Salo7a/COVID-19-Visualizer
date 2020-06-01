@@ -201,7 +201,7 @@ class Ui_MainWindow(object):
         self.Map.setText(_translate("MainWindow", "World Map"))
         self.BarCases.setText(_translate("MainWindow", "Bar By Cases"))
         self.BarDeaths.setText(_translate("MainWindow", "Bar By Deaths"))
-        self.EBubble.setText(_translate("MainWindow", "Extra Bubble"))
+        self.EBubble.setText(_translate("MainWindow", "Death Rate"))
         self.groupBox.setTitle(_translate("MainWindow", "Tools"))
         self.Update.setText(_translate("MainWindow", "Update Database"))
         self.Export.setText(_translate("MainWindow", "Export To Video File"))
